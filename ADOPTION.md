@@ -133,6 +133,16 @@ customer's purchased product an unrelated deployment. Using its covered
 component independently in another product needs an applicable permission.
 Do not substitute a code-percentage or originality test for that product scope.
 
+For a fork supplied without included product coverage, the upstream Licensor's
+applicable permission covers distributed modifications under section 7. For
+example, B distributes a fork of A's software, and a large company purchases
+A's organization coverage for its underlying release. No second organization
+license from B is required for B's distributed modifications. This also applies
+to successive forks and later modifications of already-covered releases;
+incorporating uncovered upstream releases still requires applicable permission.
+B may charge for supplying copies, optional services, or independently licensed
+additions, but not another permission fee for those covered modifications.
+
 Recipients need a short supply notice, which may be included on the invoice:
 
 ```text

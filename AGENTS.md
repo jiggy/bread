@@ -50,7 +50,9 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 Check local Markdown links, whitespace diffs, and consistency against the
 doctrine. Check that the generic license contains no adopter-specific identity
 or price schedule and that examples use its fixed bargain. These checks do not
-establish legal enforceability.
+establish legal enforceability. Check fork examples against section 7: distributed
+modifications add no second permission fee, while upstream release and product
+coverage boundaries and independent-component terms remain intact.
 
 ## Child DOX Index
 
