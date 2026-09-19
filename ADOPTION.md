@@ -109,12 +109,24 @@ not create unlimited customer grants. A present grant for identified releases
 and stated onward scope/quantity can still be passed on after enrollment ends;
 prepaying for a future grant cannot. For example, a $40 wholesale supply for
 one onward customer, resold for $100, produces $0.40 royalty for the original
-publisher and no additional reseller royalty. Installing that unchanged product
-does not itself create a new product. If the reseller instead supplies coverage
-for its own new integrated application, it needs its own enrollment: with $100
-of Covered Receipts, it owes $1, without deducting the $40 component cost or the
-upstream royalty. Permissions for independently owned upstream material still
-need checking. The records must identify which product the customer receives.
+publisher and no additional reseller royalty.
+
+For example, that reseller adds independently licensed workflows and an interface
+that launches and uses the unchanged upstream product, then sells the package
+under its own name. Its customer notice identifies the upstream product and the
+onward coverage supplied for it. That coverage remains sufficient: the new
+interface, workflows, branding, and combined price do not trigger another royalty.
+The decisive facts are the supplied onward grant and operation through that
+covered product, not how original or integrated the package appears.
+
+If the reseller instead extracts the runtime to operate separately from that
+product, or supplies more customer grants than it obtained, the onward grant
+does not cover those uses. To include that additional coverage it needs an applicable additional onward
+grant or its own publisher enrollment; recipients' own applicable permissions
+remain an alternative.
+For its enrolled offering with $100 of Covered Receipts, it owes $1 without
+deducting component costs or upstream royalties. Permissions for independently
+owned upstream material still need checking.
 
 Extensive permitted customization or broad workloads do not alone make a
 customer's purchased product an unrelated deployment. Using its covered
