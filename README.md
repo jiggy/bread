@@ -12,13 +12,13 @@ distribution option.**
 | What you want to do | The proposed terms |
 | --- | --- |
 | **Use it personally** | Free for personal, non-organizational use. Employment and client work follow the relevant organization's permission. |
-| **Run it in a small organization** | Free below the [defined financial threshold](LICENSE.md#3-organization-eligibility). |
+| **Run it in a small organization** | Free when your corporate group has less than **US$1 million in annual revenue plus qualifying funding**, under the [financial rules](LICENSE.md#3-organization-eligibility). For example, $600,000 revenue + $200,000 qualifying funding is below the threshold. |
 | **Evaluate it at any organization** | Free, without registration or a fixed deadline. Adopting it for routine business work is operational use, even on a developer's laptop. |
 | **Run it in a larger organization** | For operational use outside the free allowance, obtain coverage at the project's published prices or use coverage included with a product. Already-acquired release rights remain valid. |
-| **Sell a product or hosted service with coverage included** | Enroll and pay the software's licensor **1% of the offering's receipts**, after allowed deductions. Customers of any size are covered only for that named offering. |
-| **Distribute a free product** | Recipients need their own applicable permission; free distribution does not include customer coverage. |
+| **Include the software in a paid product or customer hosting service** | To include customer coverage, enroll and pay the software's licensor **1% of the offering's receipts**, after allowed deductions. Coverage is limited to that offering. Existing onward resale coverage can avoid a second royalty. |
+| **Include the software in a free product or customer hosting plan** | Recipients need their own applicable permission; supplying the software for free does not grant them blanket coverage. |
 | **Modify or redistribute the software** | Preserve notices and supply the covered source, including your changes, when distributing copies. Independent application files can stay private; private hosting alone requires no source disclosure. |
-| **Build a competing product** | Forks and competing products are allowed under the same terms. |
+| **Build a competing product** | Allowed. Forking does not replace the upstream licensor or remove its terms and applicable fees. Distributed modifications stay under Bread; independent code keeps its own terms. |
 | **Deliver hosted results or create outputs** | Customers merely receiving hosted results need no separate license; the operator needs permission. Independent outputs and extensions keep their own terms, with no royalty merely for creating them. |
 | **Stop renewing or sponsoring** | Keep acquired rights to covered releases. Future release coverage ends. Included hosted coverage lasts for the paid service period. |
 | **Use the complete product** | No feature-gated editions, runtime license checks, or compulsory licensing telemetry. |
