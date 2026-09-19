@@ -32,6 +32,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 ## Work Guidance
 
 - Write for an unfamiliar maintainer, user, buyer, and downstream builder.
+- Keep rules minimal: reuse existing definitions and grants, put explanatory
+  examples in the adoption guide, and add clauses only for distinct obligations.
 - Lead public entrypoints with the license type and a concise summary of free
   eligibility, payment, distribution, source obligations and lasting rights.
   Keep draft status visible; summaries must not create or alter permissions.
