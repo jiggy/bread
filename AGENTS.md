@@ -10,7 +10,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - `DOCTRINE.md` is the single owner of the model's core idea, principles,
   direction, commitments, and decision hierarchy. Read it before changes.
 - `README.md` owns the plain-language first impression and Summary, then routes
-  readers to the doctrine and current working materials.
+  readers to the doctrine and current working materials. `site/` presents the
+  same bargain as a static website; its local instructions own presentation.
 - `LICENSE.md` owns the reusable draft's fixed permissions and commercial-rights
   baseline. `ADOPTION.md` owns permitted fields, adopter duties and the notice
   template; it explains rather than adds software conditions.
@@ -37,8 +38,13 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - Lead public entrypoints with the license type and a concise summary of free
   eligibility, payment, distribution, source obligations and lasting rights.
   Keep draft status visible; summaries must not create or alter permissions.
-- Keep the Summary's practical terms in concise tables. Use general wording
-  for all adopters; identify product-specific examples as examples.
+- Use progressive disclosure: at most three primary paths (free use, work,
+  and included product coverage), followed by optional details and authoritative
+  links. Keep decisive qualifications with their path; do not replace a long
+  table with an equally dense wall of cards.
+- Keep README and website summaries consistent with the license in the same
+  change. Use adopter-neutral wording and label Jig-specific examples. Keep
+  legal conditions in the license and examples in the guide.
 - Follow the identity and communication commitments in `DOCTRINE.md`.
 - Preserve exact issued grants; revise draft mechanisms explicitly when needed.
 - Keep temporary review records outside the normative documents.
@@ -54,8 +60,13 @@ doctrine. Check that the generic license contains no adopter-specific identity
 or price schedule and that examples use its fixed bargain. These checks do not
 establish legal enforceability. Check fork examples against section 7: distributed
 modifications add no second permission fee, while upstream release and product
-coverage boundaries and independent-component terms remain intact.
+coverage boundaries and independent-component terms remain intact. Exercise
+resale with repairs and direct runtime invocation, customer coverage notices,
+closure of new offers and continuing publisher grants. Check website claims
+against the current text; Markdown integrity alone does not check their meaning.
 
 ## Child DOX Index
 
-None.
+- [site/AGENTS.md](site/AGENTS.md) — Static Bread website, progressive disclosure,
+  accessibility and faithful public summaries. The reusable bargain and doctrine
+  remain owned here.

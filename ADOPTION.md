@@ -27,7 +27,7 @@ permissions your customers receive.
 | Fixed rules | The $1m Financial Scale boundary and definition; automatic evaluation; perpetual covered-release rights; Group scope; source obligations; standard 1% rate, receipts, reporting and product coverage; remedies and continuity. |
 | Commercial choices | Published direct amounts, bands, billing currency and Update Terms; optional sponsorship and separately stated services or benefits. These cannot narrow the fixed rights or change the standard distribution rate. |
 | Identifying facts | Software and covered material; actual Licensor; authorized seller; contacts; official release records; exact license and price-schedule versions. |
-| Adopter responsibilities | Have authority for the grants; make purchasing and enrollment available; deliver required source; preserve accepted terms and publication records; issue durable coverage records; honor acquired customer rights through seller changes. |
+| Adopter responsibilities | Have authority for the grants; make purchasing and enrollment available while offers are open; deliver required source; preserve accepted terms and publication records; issue durable coverage records; honor acquired customer rights through seller changes. |
 
 A more generous allowance must be labeled an additional grant. A narrower
 eligibility rule, rental-only ordinary license, negotiated-only distribution
@@ -103,7 +103,7 @@ Prefer Bread for a deliberate selection of substantial products; do not
 recommend it indiscriminately for every small dependency. A shared license name
 removes neither accounting tasks nor other dependencies' restrictions.
 
-For unchanged resale, keep the original publisher's product coverage and the
+For covered resale, keep the original publisher's product coverage and the
 wholesale supply's stated onward scope and quantity. One end-user purchase does
 not create unlimited customer grants. A present grant for identified releases
 and stated onward scope/quantity can still be passed on after enrollment ends;
@@ -112,12 +112,14 @@ one onward customer, resold for $100, produces $0.40 royalty for the original
 publisher and no additional reseller royalty.
 
 For example, that reseller adds independently licensed workflows and an interface
-that launches and uses the unchanged upstream product, then sells the package
+that uses the upstream product, then sells the package
 under its own name. Its customer notice identifies the upstream product and the
 onward coverage supplied for it. That coverage remains sufficient: the new
 interface, workflows, branding, and combined price do not trigger another royalty.
-The decisive facts are the supplied onward grant and operation through that
-covered product, not how original or integrated the package appears.
+A security repair within that product or calling its runtime directly instead
+of its original interface does not by itself require new coverage. The decisive
+facts are the supplied onward grant and its product scope, not the interface,
+branding, or the originality of the package.
 
 If the reseller instead extracts the runtime to operate separately from that
 product, or supplies more customer grants than it obtained, the onward grant
@@ -143,7 +145,8 @@ incorporating uncovered upstream releases still requires applicable permission.
 B may charge for supplying copies, optional services, or independently licensed
 additions, but not another permission fee for those covered modifications.
 
-Recipients need a short supply notice, which may be included on the invoice:
+Publishers must give recipients a retainable supply notice under section 5.
+It may be included on the invoice or with the download:
 
 ```text
 [Product/release] includes [covered Software/release identifiers] under
@@ -165,6 +168,22 @@ expressly. Hosting alone does not require disclosure of private modifications.
 For an enrolled paid service, charges remain Covered Receipts when priced per
 result; independently selling an artifact created with the Software does not
 by itself require enrollment or an output royalty.
+
+## If the maintainer stops
+
+Section 8 lets a Licensor close new offers immediately. Existing release rights,
+accepted Update Terms and publisher agreements continue. The Licensor can hand
+administration to an authorized successor, or permanently waive future royalties
+and reporting for existing publisher enrollments and settle outstanding balances.
+A waiver keeps the agreed coverage, including any later releases it would cover;
+it does not require the maintainer to produce new releases.
+
+For example, a publisher already enrolled for a paid product can continue under
+its agreement after new enrollments close. If payment becomes impossible, it
+retains its reports and amounts due until an authorized recipient can receive
+them; an outage alone is neither a waiver nor a loss of permission. Existing
+customers keep their rights. Someone without coverage does not acquire a new
+grant merely because sales have closed; free allowances still apply normally.
 
 ## Before publishing a stable adoption
 

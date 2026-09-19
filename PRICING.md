@@ -34,7 +34,7 @@ The agreement defines taxes, refunds, pass-through compute, bundles, and reporti
 
 For a free product or free plan supplying Jig copies or customer Jig environments, recipients follow ordinary Jig eligibility; operating its free plan also requires the publisher's ordinary permission. There is no blanket-coverage purchase for free products. A paid plan does not cover all free users.
 
-Previously acquired paid-product release rights remain valid. Issuing new coverage requires active enrollment, even if prepaid. Repairs and updates relying solely on the customer's existing covered release need no new coverage; existing hosting periods may use releases covered before enrollment ended. Publishers may also distribute with clear notice that recipients supply their own Jig entitlement.
+Previously acquired paid-product release rights remain valid. Issuing new coverage requires continuing publisher permission; passing already-issued onward coverage does not require a new enrollment. Repairs and updates relying solely on the customer's existing covered release need no new coverage; existing hosting periods may use releases covered before enrollment ended. Publishers may also distribute with clear notice that recipients supply their own Jig entitlement.
 
 Running and modifying the purchased product, adding Flows, and repairing its Jig component are covered. Extracting Jig to establish a separate deployment is not. Source must be available for distributed Jig and its changes; independent application code may remain private.
 
