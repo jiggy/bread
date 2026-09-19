@@ -5,32 +5,23 @@ organizations, and evaluation, with paid organization coverage and a 1%
 distribution option.**
 
 **Review draft — not yet operative.** This is a summary of the proposed
-[Bread License](LICENSE.md), not a separate grant. Bread is not an OSI-approved
-open-source license.
+[Bread License](LICENSE.md), not a separate grant.
 
-## TL;DR
+## Summary
 
 | What you want to do | The proposed terms |
 | --- | --- |
 | **Use it personally** | Free for personal, non-organizational use. Employment and client work follow the relevant organization's permission. |
-| **Run it in an organization below US$1 million** | Free while the controlled group's annual revenue **plus qualifying funding** stays below the threshold, calculated under the license. |
+| **Run it in a small organization** | Free below the [defined financial threshold](LICENSE.md#3-organization-eligibility). |
 | **Evaluate it at any organization** | Free, without registration or a fixed deadline. Adopting it for routine business work is operational use, even on a developer's laptop. |
-| **Operate it at or above US$1 million** | Obtain organization coverage at the project's published prices, or use coverage included with a product. Already-acquired release rights remain valid. |
-| **Sell a product or hosted service with coverage included** | Enroll under the standard agreement and pay **1% of the offering's receipts**, after the license's allowed deductions. Customers of any size are covered only for that named offering. |
+| **Run it in a larger organization** | For operational use outside the free allowance, obtain coverage at the project's published prices or use coverage included with a product. Already-acquired release rights remain valid. |
+| **Sell a product or hosted service with coverage included** | Enroll and pay the software's licensor **1% of the offering's receipts**, after allowed deductions. Customers of any size are covered only for that named offering. |
+| **Distribute a free product** | Recipients need their own applicable permission; free distribution does not include customer coverage. |
 | **Modify or redistribute the software** | Preserve notices and supply the covered source, including your changes, when distributing copies. Independent application files can stay private; private hosting alone requires no source disclosure. |
+| **Build a competing product** | Forks and competing products are allowed under the same terms. |
+| **Deliver hosted results or create outputs** | Customers merely receiving hosted results need no separate license; the operator needs permission. Independent outputs and extensions keep their own terms, with no royalty merely for creating them. |
 | **Stop renewing or sponsoring** | Keep acquired rights to covered releases. Future release coverage ends. Included hosted coverage lasts for the paid service period. |
-
-Free distributions do not automatically cover their recipients; recipients need
-their own applicable permission. A customer merely receiving results from a
-hosted application needs no separate software license. Independent outputs and
-extensions keep their own terms; using the software to create them adds no
-royalty by itself.
-
-One complete product, with no runtime license checks or compulsory licensing
-telemetry. Forks and competing products are allowed within the same terms.
-Direct prices vary by project; the standard 1% is paid to that software's
-licensor, not to the Bread initiative. See the [full terms](LICENSE.md) for
-financial definitions, transition periods, coverage, and reporting.
+| **Use the complete product** | No feature-gated editions, runtime license checks, or compulsory licensing telemetry. |
 
 ## Why Bread?
 
@@ -56,7 +47,7 @@ the model's design, principles, and stewardship.
 | [PRICING.md](PRICING.md) | Proposed Jig pricing and explanation, not universal prices for every adopter. |
 | [CONTRIBUTOR-AGREEMENT.md](CONTRIBUTOR-AGREEMENT.md) | Proposed Jig contribution permissions; adopting the model does not require this governance arrangement. |
 
-These materials do not relicense Jig, FLOW, or Sley. Professional review, actual
+These drafts do not change any product's existing license. Professional review, actual
 adopter authority and operations, and the proposed text-reuse and name policy
 remain prerequisites to stable public adoption. Doctrine guides revisions;
 applicable legal grants determine actual permissions.
