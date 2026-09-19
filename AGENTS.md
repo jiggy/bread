@@ -1,8 +1,8 @@
-# License model work
+# Bread licensing model
 
 ## Purpose
 
-Develop the reusable licensing model governed by Reciprocity in
+Develop Bread, the reusable licensing model governed by Reciprocity in
 [DOCTRINE.md](DOCTRINE.md).
 
 ## Ownership
@@ -15,6 +15,9 @@ Develop the reusable licensing model governed by Reciprocity in
 
 ## Local Contracts
 
+- Use **Bread** for the initiative and model, and **Bread License** for its
+  legal instrument. Keep Jig-specific software, pricing, and contribution
+  arrangements identified as such until the reusable text is extracted.
 - Keep doctrinal content in `DOCTRINE.md`; do not duplicate it in operating guides.
 - Distinguish design authority from effective legal grants. Updating this
   repository does not change licenses elsewhere or execute agreements.
@@ -24,6 +27,7 @@ Develop the reusable licensing model governed by Reciprocity in
 ## Work Guidance
 
 - Write for an unfamiliar maintainer, user, buyer, and downstream builder.
+- Follow the identity and communication commitments in `DOCTRINE.md`.
 - Preserve exact issued grants; revise draft mechanisms explicitly when needed.
 - Keep temporary review records outside the normative documents.
 

@@ -1,11 +1,12 @@
-# Reciprocity
+# Bread doctrine — Reciprocity
 
 **Creators provide useful software and dependable freedoms; commercial
 participation helps sustain that work and its broad availability.**
 
-This doctrine governs an independent, reusable licensing model. Jig is its
-first intended adopter. The model must serve other maintainers and their users
-without requiring participation in Jig or its ecosystem.
+This doctrine governs Bread, an independent, reusable licensing model whose
+legal instrument is the Bread License. Jig is its first intended adopter.
+Bread must serve other maintainers and their users without requiring
+participation in Jig or its ecosystem.
 
 ## The authority pyramid
 
@@ -126,6 +127,12 @@ for breaking those commitments.
 Recognition matters when it reduces unfamiliar legal reasoning and helps
 people understand a real agreement. Adopter counts, publicity, and revenue
 alone cannot establish that the model serves its purpose.
+
+Bread's identity expresses tangible usefulness, human livelihoods, and
+generosity among equals. Communicate with confidence in the value of the work
+and respect for everyone who builds with it. Commercial payments purchase
+defined permissions; voluntary support is a separate choice. Avoid appeals to
+pity or gratitude, and never make free users feel indebted for their access.
 
 ## 4. Design and stewardship commitments
 

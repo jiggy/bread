@@ -1,6 +1,8 @@
-# Jig: use it, build with it, fund its development
+# Jig pricing under the Bread License
 
 **Review draft — not a live offer.** Proposed schedule P-0.5. The [license](LICENSE.md) contains the authoritative permissions; this page explains them. Its fee table becomes operative only when adopted and identified in an accepted order.
+
+These are Jig's proposed prices and purchasing arrangements, not a universal price schedule for every Bread adopter.
 
 Jig is one complete product. Personal use and ordinary use by organizations below $1 million annual financial scale are free. Evaluation is free for everyone, with no registration or countdown. Assessing Jig is evaluation; adopting it for routine business work requires ordinary or included product permission. Employer policies still apply.
 

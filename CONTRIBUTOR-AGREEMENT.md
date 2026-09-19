@@ -2,6 +2,8 @@
 
 **DRAFT — NOT EFFECTIVE.** This agreement must be completed, reviewed for the actual rights holder and contributor, and accepted before relying on it. It is distinct from the license for using Jig.
 
+This is Jig's proposed contribution arrangement. Adopting the Bread License does not require another project to adopt this agreement or Jig's governance.
+
 ## 1. Parties and submissions
 
 The recipient is **[FOUNDER_LEGAL_NAME_AND_NOTICE_ADDRESS]**. The contributor is **[CONTRIBUTOR_LEGAL_NAME_AND_CONTACT]**, or the employer or other entity actually holding the relevant rights, represented by **[AUTHORIZED_SIGNATORY]**. Covered submissions are contributions intentionally submitted for inclusion in Jig through **[IDENTIFIED_PROJECT_CHANNELS]** after acceptance, and any earlier submissions expressly identified in **[SCHEDULE]**. Ordinary discussion, bug reports, and third-party work identified as excluded are not silently captured.

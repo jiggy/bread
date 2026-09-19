@@ -1,6 +1,8 @@
-# Jig Community and Commercial License — review draft 0.5
+# Bread License — Jig proposal, review draft 0.5
 
 **DRAFT — NOT EFFECTIVE.** This proposal grants no permission until adopted for identified software by its actual rights holder. It does not replace existing repository licenses. Square-bracketed party details must be completed before adoption.
+
+This Jig-specific proposal is the starting material for the reusable Bread License. Its software scope remains Jig; a reusable standard text has not yet been extracted.
 
 Rights holder: **[FOUNDER_LEGAL_NAME_AND_NOTICE_ADDRESS]**. Licensing contact: **[LICENSING_CONTACT]**. An authorized seller is identified in each accepted order or publisher agreement. An invoice does not transfer ownership of Jig to the seller.
 
