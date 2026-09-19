@@ -1,8 +1,8 @@
 # Jig pricing under the Bread License
 
-**Review draft — not a live offer.** Proposed schedule P-0.5. The [license](LICENSE.md) contains the authoritative permissions; this page explains them. Its fee table becomes operative only when adopted and identified in an accepted order.
+**Review draft — not a live offer.** Proposed schedule P-0.5; effective date to be set upon adoption. The [license](LICENSE.md) contains the authoritative permissions; this page explains them. Its fee table becomes operative only when adopted and identified in an accepted order.
 
-These are Jig's proposed prices and purchasing arrangements, not a universal price schedule for every Bread adopter.
+These are Jig's proposed prices and purchasing arrangements, not a universal price schedule for every Bread adopter. The [Jig adoption example](JIG-ADOPTION.md) identifies how this schedule accompanies the reusable license.
 
 Jig is one complete product. Personal use and ordinary use by organizations below $1 million annual financial scale are free. Evaluation is free for everyone, with no registration or countdown. Assessing Jig is evaluation; adopting it for routine business work requires ordinary or included product permission. Employer policies still apply.
 
@@ -32,7 +32,7 @@ Accept the published publisher agreement, identify your offering, and pay **1% o
 
 The agreement defines taxes, refunds, pass-through compute, bundles, and reporting. Report aggregate receipts quarterly; no customer roster or runtime telemetry. The rate stays fixed for the enrolled product and its normal updates, and official Jig releases remain included while enrollment continues. A publisher stopping business does not erase a customer's acquired rights to delivered releases.
 
-For a free product or free plan, users follow ordinary Jig eligibility; operating its free plan also requires the publisher's ordinary permission. There is no blanket-coverage purchase for free products. A paid plan does not cover all free users.
+For a free product or free plan supplying Jig copies or customer Jig environments, recipients follow ordinary Jig eligibility; operating its free plan also requires the publisher's ordinary permission. There is no blanket-coverage purchase for free products. A paid plan does not cover all free users.
 
 Previously acquired paid-product release rights remain valid. Issuing new coverage requires active enrollment, even if prepaid. Repairs and updates relying solely on the customer's existing covered release need no new coverage; existing hosting periods may use releases covered before enrollment ended. Publishers may also distribute with clear notice that recipients supply their own Jig entitlement.
 

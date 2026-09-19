@@ -10,14 +10,18 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - `DOCTRINE.md` is the single owner of the model's core idea, principles,
   direction, commitments, and decision hierarchy. Read it before changes.
 - `README.md` routes readers to the doctrine and current working materials.
-- The license, pricing, and contributor agreement remain proposal artifacts;
-  their Jig-specific text is not yet a fully extracted reusable standard.
+- `LICENSE.md` owns the reusable draft's fixed permissions and commercial-rights
+  baseline. `ADOPTION.md` owns permitted fields, adopter duties and the notice
+  template; it explains rather than adds software conditions.
+- `JIG-ADOPTION.md`, `PRICING.md`, and `CONTRIBUTOR-AGREEMENT.md` are Jig's
+  proposed example, prices and contribution arrangement, not universal Bread
+  requirements. Missing factual authority is left explicit.
 
 ## Local Contracts
 
 - Use **Bread** for the initiative and model, and **Bread License** for its
-  legal instrument. Keep Jig-specific software, pricing, and contribution
-  arrangements identified as such until the reusable text is extracted.
+  legal instrument. Keep the fixed standard separate from adopter facts,
+  permitted commercial choices, and adopter responsibilities.
 - Keep doctrinal content in `DOCTRINE.md`; do not duplicate it in operating guides.
 - Distinguish design authority from effective legal grants. Updating this
   repository does not change licenses elsewhere or execute agreements.
@@ -30,11 +34,17 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - Follow the identity and communication commitments in `DOCTRINE.md`.
 - Preserve exact issued grants; revise draft mechanisms explicitly when needed.
 - Keep temporary review records outside the normative documents.
+- Compare extractions against preserved scenario outcomes. Identify changed
+  answers as policy decisions. Test adoption and dependency chains using frozen
+  public materials with fresh reviewers; report access limits and unresolved
+  questions rather than claiming legal approval or fault freedom.
 
 ## Verification
 
 Check local Markdown links, whitespace diffs, and consistency against the
-doctrine. These checks do not establish legal enforceability.
+doctrine. Check that the generic license contains no adopter-specific identity
+or price schedule and that examples use its fixed bargain. These checks do not
+establish legal enforceability.
 
 ## Child DOX Index
 
