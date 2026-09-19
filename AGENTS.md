@@ -9,7 +9,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 
 - `DOCTRINE.md` is the single owner of the model's core idea, principles,
   direction, commitments, and decision hierarchy. Read it before changes.
-- `README.md` routes readers to the doctrine and current working materials.
+- `README.md` owns the plain-language first impression and TL;DR, then routes
+  readers to the doctrine and current working materials.
 - `LICENSE.md` owns the reusable draft's fixed permissions and commercial-rights
   baseline. `ADOPTION.md` owns permitted fields, adopter duties and the notice
   template; it explains rather than adds software conditions.
@@ -31,6 +32,9 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 ## Work Guidance
 
 - Write for an unfamiliar maintainer, user, buyer, and downstream builder.
+- Lead public entrypoints with the license type and a concise summary of free
+  eligibility, payment, distribution, source obligations and lasting rights.
+  Keep draft status visible; summaries must not create or alter permissions.
 - Follow the identity and communication commitments in `DOCTRINE.md`.
 - Preserve exact issued grants; revise draft mechanisms explicitly when needed.
 - Keep temporary review records outside the normative documents.
