@@ -668,15 +668,15 @@ summary:hover {
 }
 
 .answer strong {
-  color: var(--text);
+  color: var(--ink);
 }
 
 .answer a {
-  color: var(--accent-light);
+  color: var(--link-on-cream);
 }
 
 .answer a:hover {
-  color: #FFFFFF;
+  color: var(--link-on-cream-hover);
 }
 
 .featured {
@@ -1031,6 +1031,29 @@ summary:hover {
 
   .questions .content {
     padding-block: 4rem 4.5rem;
+  }
+
+  .adopt-card {
+    padding: 1.5rem;
+  }
+
+  .hero-subnav .content {
+    gap: 0.5rem 1rem;
+    padding-block: 0.75rem;
+  }
+
+  .outcomes-cta {
+    flex-direction: column;
+    align-items: stretch;
+    max-width: 24rem;
+    margin-inline: auto;
+  }
+
+  .outcomes-button-primary,
+  .outcomes-button-secondary {
+    justify-content: center;
+    width: 100%;
+    text-align: center;
   }
 }
 
