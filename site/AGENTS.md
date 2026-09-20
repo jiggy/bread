@@ -32,7 +32,9 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   and Gabarito typography. Use “Free for you. Friendly for business.” as the
   headline. Lead with outcomes for users, businesses, and creators, then the
   practical paths and exact terms. Introduce provisions through what they enable.
-  Keep generous section spacing.
+  Keep generous section spacing. Express the human promise as a short, flowing
+  passage; do not expand it into audience columns, stacked slogans, or a
+  prefatory explanation of the model. Reserve structured choices for the paths.
   Simplifying information must not replace this identity with generic slogans
   or turn the hero into a legal-status banner. Keep draft status secondary but visible.
 - Use welcoming language without moral judgment about companies paying their
