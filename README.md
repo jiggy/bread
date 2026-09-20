@@ -105,11 +105,33 @@ arises merely because Bread-licensed software helped create them. See the
 Bread's core idea is **reciprocity**. Payments buy permissions; voluntary support
 is separate. Free users owe no contribution, promotion, or eventual purchase.
 
-Jig is the first intended adopter. Its [worked example](JIG-ADOPTION.md),
-[proposed prices](PRICING.md), and [contributor agreement](CONTRIBUTOR-AGREEMENT.md)
-are Jig-specific, not requirements for other Bread adopters.
+The [fictional adoption example](EXAMPLE-ADOPTION.md) includes an illustrative
+price schedule and grants no rights.
 
-The stable text, text-reuse permission, and name policy still need finalization,
-alongside professional review and each adopter's authority and operations.
-These drafts change no product's existing license. Repository work follows
-[AGENTS.md](AGENTS.md).
+Jig is the first intended adopter. Jig owns its
+[pricing](https://github.com/jiggy/jig/blob/main/PRICING.md),
+[actual licensing](https://github.com/jiggy/jig/blob/main/LICENSE.md), and
+contribution arrangements in its separate repository. They are not requirements
+for other Bread adopters.
+
+## Reuse the text and name
+
+You may freely copy, translate, adopt, adapt, and distribute the Bread license
+text and adoption materials, including commercially, without fees, membership,
+registration, or individual approval. This permission applies now.
+
+Use the **Bread License** name and applicable version or draft identifier for
+the unchanged standard English text. Permitted adoption facts, commercial
+choices, and additional permissions expanding rights belong in separate
+notices or agreements. Formatting may change while preserving the text and
+its order. All other text changes require a distinct license name and an
+explanation of the changes; **“based on Bread License [version]”** is allowed.
+Translations may accompany the English text as labeled, non-authoritative
+explanations. The [name policy](ADOPTION.md#text-reuse-and-the-bread-name)
+defines these boundaries and makes no claim of trademark registration or
+endorsement of adaptations.
+
+The legal text remains **review draft 0.6**. Its finalization, professional
+review, and each adopter's authority and operations remain separate from this
+text-reuse permission. These drafts change no product's existing license.
+Repository work follows [AGENTS.md](AGENTS.md).

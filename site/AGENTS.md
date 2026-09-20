@@ -76,7 +76,11 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   horizontal scroll region on narrow screens. Keep exact versions and source
   links visible; no winner scores or unqualified green/red checkmarks.
 - Route to the license and practical guide, then doctrine and adopter examples.
-  Use the actual `jiggy/bread` GitHub origin for repository document links.
+  Use the actual `jiggy/bread` GitHub origin for Bread document links, including
+  `EXAMPLE-ADOPTION.md` for the fictional example. Jig owns its actual licensing
+  and prices at `https://github.com/jiggy/jig/blob/main/LICENSE.md` and
+  `https://github.com/jiggy/jig/blob/main/PRICING.md`; use those external links,
+  never paths into a neighboring checkout.
 - Follow the doctrine's communication commitments; do not promise ownership,
   guaranteed income, or freedom from all lock-in. Keep license comparisons
   short and factual, link primary sources, and verify their current terms.

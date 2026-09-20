@@ -13,22 +13,34 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   readers to the doctrine and current working materials. `site/` presents the
   same bargain as a static website; its local instructions own presentation.
 - `LICENSE.md` owns the reusable draft's fixed permissions and commercial-rights
-  baseline. `ADOPTION.md` owns permitted fields, adopter duties and the notice
-  template; it explains rather than adds software conditions.
-- `JIG-ADOPTION.md`, `PRICING.md`, and `CONTRIBUTOR-AGREEMENT.md` are Jig's
-  proposed example, prices and contribution arrangement, not universal Bread
-  requirements. Missing factual authority is left explicit.
+  baseline. `ADOPTION.md` owns the effective text-reuse permission and name
+  policy, permitted fields, adopter duties and the notice template. Text reuse
+  does not grant software rights; the guide adds no software conditions.
+- `EXAMPLE-ADOPTION.md` owns a fictional adoption and its self-contained
+  illustrative price schedule. It is not a live grant or commercial offer.
+- Jig owns its actual license, pricing, and contribution arrangements in its
+  separate repository. Link to `https://github.com/jiggy/jig/blob/main/LICENSE.md`
+  and `https://github.com/jiggy/jig/blob/main/PRICING.md`; do not keep Jig's
+  operative documents here or depend on its local checkout.
 
 ## Local Contracts
 
 - Use **Bread** for the initiative and model, and **Bread License** for its
   legal instrument. Keep the fixed standard separate from adopter facts,
-  permitted commercial choices, and adopter responsibilities.
+  permitted commercial choices, and adopter responsibilities. Follow the current
+  [text-reuse and name policy](ADOPTION.md#text-reuse-and-the-bread-name); do not
+  describe it as awaiting finalization. The standard name requires unchanged
+  English text; permitted adopter facts, commercial choices, and additional
+  grants stay separate. Formatting preserves text and order; explanatory
+  translations are labeled non-authoritative. Other text changes require a
+  distinct name. Legal-text draft status is separate.
 - Keep doctrinal content in `DOCTRINE.md`; do not duplicate it in operating guides.
 - Distinguish design authority from effective legal grants. Updating this
   repository does not change licenses elsewhere or execute agreements.
 - This directory is an independent Git repository. Inspect its worktree
   separately and do not stage its contents as a parent-repository gitlink.
+  Its location inside another checkout is temporary; its materials and checks
+  must remain self-contained.
 
 ## Work Guidance
 
@@ -39,24 +51,25 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - Use concrete promises over abstract values slogans. Keep Jig prices labeled
   as Jig's, and scope “always free” to personal use and genuine evaluation of
   software received under Bread. Do not frame ordinary use as buying releases.
-- Preserve legal precision in the license and contributor agreement. Improve
-  their navigation and paragraph structure before paraphrasing operative clauses;
-  check any changed legal wording explicitly for altered rights or obligations.
+- Preserve legal precision in the license. Improve its navigation and paragraph
+  structure before paraphrasing operative clauses; check any changed legal
+  wording explicitly for altered rights or obligations.
 - Keep rules minimal: reuse existing definitions and grants, put explanatory
   examples in the adoption guide, and add clauses only for distinct obligations.
 - Give public entrypoints a concise summary of license type, free eligibility,
   payment, distribution, source obligations and lasting rights. The website
   leads with human outcomes before this practical summary. Repository documents
-  retain draft status. The site contains authorized coordinated-launch copy;
+  identify the legal text as a review draft while distinguishing the effective
+  text-reuse and name policy. The site contains authorized coordinated-launch copy;
   its local contract owns presentation and publication prerequisites. Summaries
-  must not create or alter permissions.
+  must not create or alter software permissions.
 - Use progressive disclosure: at most three primary paths (free use, work,
   and included product coverage), followed by optional details and authoritative
   links. Keep decisive qualifications with their path; do not replace a long
   table with an equally dense wall of cards.
 - Keep README and website summaries consistent with the license in the same
-  change. Use adopter-neutral wording and label Jig-specific examples. Keep
-  legal conditions in the license and examples in the guide.
+  change. Use adopter-neutral wording and clearly label fictional examples and
+  Jig prices. Keep legal conditions in the license and examples in the guide.
 - Follow the identity and communication commitments in `DOCTRINE.md`.
 - Preserve exact issued grants; revise draft mechanisms explicitly when needed.
 - Keep temporary review records outside the normative documents.

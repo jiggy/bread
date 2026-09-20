@@ -1,9 +1,11 @@
 # Adopting Bread
 
-**Draft for review.** The [Bread License](LICENSE.md) is a reusable draft.
+The [Bread License](LICENSE.md) remains **review draft 0.6**, not an effective
+software grant. The text-reuse permission and name policy below apply now.
 Use this guide to assess a proposed adoption. Before making an actual offer,
 resolve the publication prerequisites at the end of this guide.
-The [Jig example](JIG-ADOPTION.md) uses the same procedure.
+The [fictional example](EXAMPLE-ADOPTION.md) uses the same procedure and includes
+a self-contained illustrative price schedule; it grants no rights.
 
 ## Decide whether it fits
 
@@ -27,6 +29,39 @@ There is no shared Bread account, blanket license, pooled royalty, or initiative
 fee. Before selecting dependencies, determine both the total obligations and the
 permissions your customers receive.
 
+## Text reuse and the Bread name
+
+Permission is granted to anyone to copy, reproduce, translate, adopt, adapt,
+and distribute the Bread license text and adoption materials freely, including
+for commercial purposes. No fee, royalty to the Bread initiative, membership,
+registration, or individual approval is required. This permission applies now,
+including to the review draft; it does not grant rights in software that uses
+or illustrates the model.
+
+You may identify an instrument as **Bread License** with its applicable version
+or draft identifier only when its standard English license text is reproduced
+unchanged. The following are permitted without changing that name:
+
+- Supply the identifying facts and commercial choices expressly permitted by
+  that version in a separate adoption notice, order, or schedule.
+- Offer separately labeled additional permissions that expand rights without
+  restricting or replacing the underlying Bread grants.
+- Change layout or formatting while preserving every word, punctuation mark,
+  provision, and their order.
+
+Any other change to the standard text requires a distinct license name, not
+**Bread** or **Bread License**, and an explanation of the changes. This includes
+rewriting a clause even if you believe its meaning is equivalent. You may
+describe the result as **“based on Bread License [version]”**, but must not
+present it as that Bread License version.
+
+Translations may accompany the unchanged English text as clearly labeled,
+non-authoritative explanations. An independently authoritative translation is
+a modified instrument and must use a distinct license name under this policy.
+
+Permission to adapt the text does not imply endorsement of the result. This
+naming policy makes no claim of trademark registration.
+
 ## Keep the bargain fixed; supply the facts
 
 The license sets the rules. Adopters choose the permitted commercial details,
@@ -46,7 +81,7 @@ eligibility, an ordinary license available only as a rental, distribution
 available only through negotiation, a different royalty, or a restriction on
 competition changes the license itself. Such a license cannot be presented as
 this Bread License with different pricing. Adopters choose how to govern
-contributions; Jig's contributor agreement is not part of Bread.
+contributions; project-specific contributor agreements are not part of Bread.
 
 ## Prepare an adoption
 
@@ -115,7 +150,7 @@ An incomplete example does not put the license into effect. Identify specific
 releases when putting an adoption into effect; do not use a broad notice that
 silently covers material already licensed differently. Keep the exact accepted
 notice and price versions with commercial records. No project needs permission
-from Jig merely to use the proposed model.
+from another adopting project merely to use the proposed model.
 
 ## Dependencies and downstream notices
 
@@ -239,13 +274,9 @@ grant merely because sales have closed; free allowances still apply normally.
 
 ## Before publishing a stable adoption
 
-The steward must settle the exact reusable version, its text-reuse permission,
-and its name policy. The proposed policy is: anyone may reproduce, translate,
-adapt and distribute the text and adoption materials without a fee or membership;
-only an unchanged standard bargain may be presented as that Bread License
-version. Modified instruments must use a distinct name and identify their
-departures; describing derivation is allowed. This is a proposed policy for
-publication, not a claim of trademark registration or a grant already in effect.
+The steward must finalize the reusable legal text and its adoption status.
+The text-reuse permission and name policy above are already in effect; they do
+not make the draft an issued software license or settle an adopter's authority.
 
 Have the actual license and concrete failure cases reviewed: how grants take
 effect, authority to cover future releases, continuity of customer rights,
