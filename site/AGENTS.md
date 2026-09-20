@@ -63,6 +63,9 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   Redistribution and source-sharing questions must name the Bread-licensed
   software being used, bundled, or hosted; never imply Bread governs unrelated
   products or independent app code.
+- Keep this a selling page, not a second contract. State that separately licensed
+  components have separate obligations; leave cumulative royalty calculations
+  and detailed reporting procedures to the adoption guide and license.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
 - After the principles, feature actual named software in the coordinated-launch
