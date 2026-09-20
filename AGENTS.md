@@ -51,6 +51,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - Follow the identity and communication commitments in `DOCTRINE.md`.
 - Preserve exact issued grants; revise draft mechanisms explicitly when needed.
 - Keep temporary review records outside the normative documents.
+- Set delegated agents to `medium` reasoning effort explicitly; never use an
+  effort higher than the coordinating agent.
 - Compare extractions against preserved scenario outcomes. Identify changed
   answers as policy decisions. Test adoption and dependency chains using frozen
   public materials with fresh reviewers; report access limits and unresolved

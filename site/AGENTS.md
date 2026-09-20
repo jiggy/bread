@@ -56,6 +56,10 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   enforcement, continuing use after nonrenewal, independent application rights,
   competition, and published purchasing terms. Link to the doctrine; avoid vague
   values slogans or another card grid. Preserve the established design.
+- Apply the same plain language to FAQs, comparison labels, navigation, and
+  adoption instructions. Start answers with the result for the reader; use
+  familiar situations before introducing legal terms. Keep essential conditions
+  nearby and link to exact rules. Remove repetition without weakening meaning.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
 - After the principles, feature actual named software in the coordinated-launch
