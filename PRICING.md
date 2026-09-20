@@ -71,10 +71,11 @@ payment, or cloud premium. Your customers receive a Jig license for that product
 or service, regardless of company size—not for unrelated Jig deployments.
 
 The agreement explains which receipts count, including taxes, refunds,
-pass-through compute, and bundles. **Report and pay once a year—or quarterly
-if that suits your business better.** Annual reporting is the default; choose
-quarterly when enrolling. Reports and payments are due within 30 days after each
-calendar period ends. Change frequency for the next calendar year by giving
+pass-through compute, and bundles. **Report and pay once a year—or more often
+if that suits you.** Annual reporting is the default. At enrollment, you can
+choose a shorter period in whole calendar months. Periods align with the
+calendar year; the last one ends on December 31. Reports and payments are due
+within 30 days after each period ends. Change frequency for the next calendar year by giving
 notice before it starts. No customer roster or runtime telemetry. The rate stays fixed for the enrolled product and its
 normal updates. Official Jig versions remain included while enrollment continues.
 If your business closes, customers keep their acquired rights to delivered copies.

@@ -149,7 +149,7 @@ The onward grant does not cover extracted Software operated separately from the 
 
 ### Reporting and payment
 
-Report aggregate Covered Receipts and the resulting fee annually by default. The publisher may choose quarterly reporting at enrollment. Reporting periods are calendar years or calendar quarters; the first period begins on enrollment and ends at the applicable calendar period-end. Report and pay within 30 days after each period ends, with no minimum payment or balance carry-forward.
+Report aggregate Covered Receipts and the resulting fee annually by default. At enrollment, the publisher may choose a shorter reporting period in whole calendar months. Within each calendar year, periods run consecutively from January 1 for the selected number of months, with the final period shortened if necessary to end on December 31. The first period begins on enrollment and ends at the applicable period-end. Report and pay within 30 days after each period ends, with no minimum payment or balance carry-forward.
 
 The publisher may change frequency by notice to the licensing channel before the start of the next calendar year, effective from that year. A change does not reopen completed periods or postpone existing deadlines. Record the chosen frequency, including the annual default, in the enrollment confirmation and any change notice.
 
@@ -157,7 +157,7 @@ Report and settle in USD, converting net receipts by currency using section 3's 
 
 No customer list, source upload, or deployment telemetry is required.
 
-If enrollment ends, the current reporting period ends on that date. Report receipts not yet reported and settle outstanding amounts within 30 days, without extending an earlier deadline. Covered Receipts received afterward remain reportable and payable under the selected annual or quarterly schedule. Keep normal records supporting the totals.
+If enrollment ends, the current reporting period ends on that date. Report receipts not yet reported and settle outstanding amounts within 30 days, without extending an earlier deadline. Covered Receipts received afterward remain reportable and payable under the selected reporting schedule. Keep normal records supporting the totals.
 
 Following a concrete discrepancy, provide proportionate financial clarification under confidentiality; there is no general right to inspect user data, repositories, or production systems.
 

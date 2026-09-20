@@ -77,7 +77,8 @@ modifications add no second permission fee, while upstream release and product
 coverage boundaries and independent-component terms remain intact. Exercise
 resale with repairs and direct runtime invocation, customer coverage notices,
 closure of new offers and continuing publisher grants. Check publisher reporting
-with the annual default, optional quarters, partial first/final periods, changes
+with the annual default, optional whole-month periods (including lengths that
+do not divide twelve), partial first/final periods, changes
 from the next calendar year, and late receipts. Keep reports and payments aligned;
 frequency changes and termination must not extend earlier deadlines. Check website claims
 against the current text; Markdown integrity alone does not check their meaning.

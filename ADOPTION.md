@@ -82,8 +82,8 @@ is enough.
 ### 5. Record publisher enrollments and customer coverage
 
 For a publisher enrollment, preserve the parties, named offering, accepted
-license version, receipt date, and reporting frequency (annual by default, or
-quarterly at the publisher's choice). Keep any notice changing frequency for the
+license version, receipt date, and reporting period (annual by default, or
+a shorter number of whole calendar months chosen by the publisher). Keep any notice changing frequency for the
 next calendar year. Apply section 6 without individual product
 approval. Each time the publisher supplies included coverage, it records the
 named product, covered Software releases, and the customer's coverage for
@@ -132,7 +132,9 @@ Receipts mean $1 to each Licensor and two aggregate reporting relationships.
 Five mean $5 and five reporting relationships, not one shared 1% payment. Apply
 each agreement's actual receipts definition; deductions, bundles, reseller status,
 and existing coverage can change the result. Five agreements mean five reports per full calendar year on the annual default,
-or twenty if the publisher chooses quarterly for all five. Report and pay
+twenty if the publisher chooses quarterly for all five, or sixty if monthly.
+Other whole-month periods are also allowed; the final period of each calendar
+year ends on December 31. Report and pay
 within 30 days after each period ends; there is no small-balance carry-forward.
 A frequency change takes effect next calendar year after notice before that
 year starts, without postponing existing deadlines.
