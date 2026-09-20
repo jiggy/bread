@@ -27,6 +27,10 @@ questions deeper on the page. Help unfamiliar users find their applicable path.
 
 - Keep static semantic HTML and CSS; no JavaScript or build dependencies are
   required. Use native `details`/`summary` for grouped questions below the paths.
+- Preserve the Bread-led hero: bread mark, large Bread wordmark, reciprocity
+  tagline, warm palette and Gabarito typography. Keep generous section spacing.
+  Simplifying information must not replace this identity with generic slogans
+  or turn the hero into a legal-status banner. Keep draft status secondary but visible.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
 - Route to the license and practical guide, then doctrine and adopter examples.
