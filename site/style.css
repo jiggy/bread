@@ -533,26 +533,126 @@ summary:hover {
   border-bottom: 1px solid var(--border);
 }
 
-.featured-product {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
-  gap: 2rem 4rem;
-  margin-top: 3rem;
-  padding: 2.5rem;
+.featured .content {
+  padding-block: 5.5rem;
+}
+
+.featured-carousel {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 2rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+}
+
+.featured-item {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 2.25rem;
   border: 1px solid var(--border);
-  border-radius: 0.875rem;
+  border-radius: 1rem;
   background: var(--bg-surface);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  max-width: 38rem;
+  width: 100%;
 }
 
-.featured-product h3 {
+.featured-item:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+}
+
+.featured-app-link {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.featured-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.875rem;
+  background: radial-gradient(circle at 35% 35%, #3D3220 0%, #201A10 100%);
+  border: 1px solid rgba(229, 168, 75, 0.35);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.featured-item:hover .featured-icon-wrap {
+  transform: scale(1.05);
+  border-color: var(--accent);
+}
+
+.featured-icon-placeholder {
+  font-size: 2rem;
+  line-height: 1;
+  filter: drop-shadow(0 2px 6px rgba(229, 168, 75, 0.4));
+}
+
+.featured-app-info h3 {
   color: var(--accent);
-  font-size: 3rem;
-  margin-bottom: 1rem;
+  font-size: 2rem;
+  line-height: 1.1;
+  margin-bottom: 0.35rem;
 }
 
-.featured-product p { color: var(--muted); }
-.featured-product .featured-tagline { color: var(--text); font-size: 1.3rem; }
-.featured-product nav { display: flex; flex-wrap: wrap; gap: 1rem 2rem; }
+.featured-app-info .featured-tagline {
+  color: var(--text);
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 0;
+}
+
+.featured-details p {
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+}
+
+.featured-details nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem 1.75rem;
+}
+
+.featured-details nav a:first-child {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1.5px solid transparent;
+  transition: all 0.15s ease;
+}
+
+.featured-details nav a:first-child:hover {
+  border-bottom-color: var(--accent);
+  color: var(--accent-light);
+}
+
+.featured-details nav a:last-child {
+  color: var(--muted);
+  font-size: 0.95rem;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.featured-details nav a:last-child:hover {
+  color: var(--text);
+}
 
 .comparison { background: var(--bg-surface); }
 .table-hint { color: var(--muted); font-size: 0.9rem; }
@@ -645,15 +745,37 @@ summary:hover {
 
 .footer p {
   line-height: 1.55;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   max-width: 40rem;
 }
 
-.footer > .content > a:last-child {
-  display: inline-block;
-  font-family: "JetBrains Mono", monospace;
-  font-size: 0.9rem;
-  margin-top: 0.5rem;
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  color: var(--accent-light);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 0.5rem 0.9rem;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  transition: all 0.15s ease;
+  width: fit-content;
+}
+
+.github-link:hover {
+  color: #FFFFFF;
+  border-color: var(--accent);
+  background: #25201A;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.github-icon {
+  display: block;
+  flex-shrink: 0;
 }
 
 /* -------------------------------------------------------------
