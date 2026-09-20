@@ -552,6 +552,37 @@ summary:hover {
   color: #FFFFFF;
 }
 
+/* General FAQ: the naming story separates it from practical details. */
+.about {
+  background: var(--cream);
+  color: var(--ink);
+  color-scheme: light;
+  --text: var(--ink);
+  --muted: var(--ink-muted);
+  --border: var(--cream-border);
+  --accent: var(--link-on-cream);
+  --accent-light: var(--link-on-cream);
+  --accent-glow: rgba(148, 87, 0, 0.06);
+}
+
+.name-story {
+  margin-block: 2.5rem 3rem;
+}
+
+.name-story p {
+  margin: 1rem 0 0;
+  color: var(--ink-muted);
+  font-size: 1.2rem;
+}
+
+.about details[open] {
+  background-color: rgba(148, 87, 0, 0.035);
+}
+
+.about summary:hover, .about .answer a:hover {
+  color: var(--link-on-cream-hover);
+}
+
 /* -------------------------------------------------------------
    Footer
    ------------------------------------------------------------- */

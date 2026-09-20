@@ -55,10 +55,16 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   values slogans or another card grid. Preserve the established design.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
+- Keep practical license questions separate from the general FAQ. After the
+  details, “About Bread” opens with the visible naming story, then three
+  disclosures: open-source status, a short license comparison, and adoption.
+  Use spacing and the existing palette rather than an extra separator section.
 - Route to the license and practical guide, then doctrine and adopter examples.
   Use the actual `jiggy/bread` GitHub origin for repository document links.
 - Follow the doctrine's communication commitments; do not promise ownership,
-  guaranteed income, or freedom from all lock-in, or add competitor comparisons.
+  guaranteed income, or freedom from all lock-in. Keep license comparisons
+  short and factual, link primary sources, and verify their current terms.
+  Explain different bargains without superiority claims or a large comparison table.
 
 ## Verification
 
