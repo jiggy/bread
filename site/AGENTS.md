@@ -18,7 +18,10 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 
 - Keep review version, non-effective status, and production-adoption limits
   visible. Text-reuse and name policies remain proposed until settled upstream.
-- Use at most three main paths: Start free, Use at work, Ship with coverage.
+- Use at most three audience cards: Individuals & evaluators, Teams & companies,
+  and Product builders. Label the audience prominently; these are roles, not
+  steps or mutually exclusive plans. Keep both free and paid business use in
+  the organization card.
   Preserve eligibility, release rights, and product-specific coverage boundaries.
 - Keep decisive free-plan and distributed-source qualifications visible; explain
   results-only hosting versus customer environments without implying universal
@@ -39,6 +42,10 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   or turn the hero into a legal-status banner. Keep draft status secondary but visible.
 - Use welcoming language without moral judgment about companies paying their
   share. Commercial payments buy permissions; free use creates no debt of gratitude.
+- Say “Free, with no time limit” for personal use and genuine evaluation; do
+  not imply unconditional free operational use or a guarantee about every
+  future release. Keep a concise “Principles Behind the Bread” section linked
+  to the doctrine, using the established design rather than another card grid.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
 - Route to the license and practical guide, then doctrine and adopter examples.

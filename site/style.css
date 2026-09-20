@@ -345,7 +345,7 @@ a:hover {
   margin-bottom: 0.5rem;
 }
 
-.path-lead {
+.path .path-lead {
   margin-top: 0.5rem;
   margin-bottom: 1.25rem;
   font-weight: 700;
@@ -427,6 +427,36 @@ a:hover {
   font-size: 0.8rem;
   font-weight: 800;
   flex-shrink: 0;
+}
+
+/* Principles use the existing warm palette without another row of cards. */
+.principles {
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border);
+}
+
+.principle-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 24rem), 1fr));
+  gap: 2.5rem 4rem;
+  margin-block: 3rem;
+}
+
+.principle-list dt {
+  margin-bottom: 0.65rem;
+  color: var(--accent-light);
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.principle-list dd {
+  max-width: 29rem;
+  color: var(--muted);
+}
+
+.paths :focus-visible, .skip-link:focus-visible {
+  outline-color: var(--link-on-cream);
 }
 
 /* -------------------------------------------------------------
@@ -606,4 +636,11 @@ summary:hover {
   .questions .content {
     padding-block: 4rem 4.5rem;
   }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none; }
+  .logo-mark:hover { transform: rotate(-6deg); }
+  .path:hover, .path > a:hover::after { transform: none; }
 }
