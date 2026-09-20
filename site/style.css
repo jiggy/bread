@@ -542,7 +542,9 @@ summary:hover {
   display: flex;
   gap: 2rem;
   overflow-x: auto;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.75rem;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
 }
 
 .featured-item {
@@ -557,6 +559,8 @@ summary:hover {
   transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
   max-width: 38rem;
   width: 100%;
+  flex-shrink: 0;
+  scroll-snap-align: start;
 }
 
 .featured-item:hover {
