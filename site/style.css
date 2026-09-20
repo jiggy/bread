@@ -360,6 +360,28 @@ a:hover {
   color: var(--ink);
 }
 
+.scale-example {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  background: var(--cream);
+  border: 1px solid var(--cream-border);
+  border-radius: 0.5rem;
+  padding: 0.55rem 0.85rem;
+  font-size: 0.875rem;
+  color: var(--ink-muted);
+  margin-top: -0.25rem;
+  margin-bottom: 1.15rem;
+  font-family: "JetBrains Mono", monospace;
+}
+
+.scale-example strong {
+  color: var(--link-on-cream);
+  font-weight: 700;
+}
+
 .path > a {
   display: inline-flex;
   align-items: center;
@@ -454,51 +476,68 @@ a:hover {
    Questions & Deep Details (details/summary)
    ------------------------------------------------------------- */
 .questions {
-  border-bottom: 1px solid var(--border-subtle);
+  background: var(--cream);
+  color: var(--ink);
+  color-scheme: light;
+  --text: var(--ink);
+  --muted: var(--ink-muted);
+  --border: var(--cream-border);
+  --accent: var(--link-on-cream);
+  --accent-light: var(--link-on-cream);
+  --accent-glow: rgba(148, 87, 0, 0.06);
+  border-bottom: 1px solid var(--cream-border);
 }
 
 .questions .content {
   padding-block: 5.5rem 6.5rem;
 }
 
-.eyebrow {
-  color: var(--accent);
-  margin-bottom: 0.5rem;
-}
-
 .questions h2 {
-  color: var(--text);
+  color: var(--ink);
   margin-bottom: 0.5rem;
 }
 
-.section-intro {
+.questions .eyebrow {
+  color: var(--link-on-cream);
+  margin-bottom: 0.5rem;
+}
+
+.questions .section-intro {
   margin-block: 0.75rem 2.75rem;
-  color: var(--muted);
+  color: var(--ink-muted);
   font-size: 1.15rem;
 }
 
+.questions .section-intro a {
+  color: var(--link-on-cream);
+}
+
+.questions .section-intro a:hover {
+  color: var(--link-on-cream-hover);
+}
+
 details {
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--cream-border);
   transition: background-color 0.15s ease, border-color 0.15s ease;
 }
 
 details:last-child {
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--cream-border);
 }
 
 details[open] {
-  background-color: rgba(30, 27, 22, 0.4);
+  background-color: rgba(148, 87, 0, 0.035);
 }
 
 details:target {
-  border-color: var(--accent);
-  background-color: var(--accent-glow);
+  border-color: var(--link-on-cream);
+  background-color: rgba(148, 87, 0, 0.06);
 }
 
 summary {
   padding-block: 1.5rem;
   padding-inline: 0.5rem;
-  color: var(--accent-light);
+  color: var(--ink);
   cursor: pointer;
   font-size: 1.15rem;
   font-weight: 700;
