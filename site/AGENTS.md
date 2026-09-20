@@ -2,8 +2,9 @@
 
 ## Purpose
 
-Explain Bread's proposed reciprocity bargain with the main points first and
-questions deeper on the page. Help unfamiliar users find their applicable path.
+Introduce the possibilities Bread creates for users, businesses, and creators,
+then explain its proposed reciprocity bargain through practical paths and deeper
+details. Help unfamiliar users understand the benefits before assessing terms.
 
 ## Ownership
 
@@ -27,10 +28,15 @@ questions deeper on the page. Help unfamiliar users find their applicable path.
 
 - Keep static semantic HTML and CSS; no JavaScript or build dependencies are
   required. Use native `details`/`summary` for grouped questions below the paths.
-- Preserve the Bread-led hero: bread mark, large Bread wordmark, reciprocity
-  tagline, warm palette and Gabarito typography. Keep generous section spacing.
+- Preserve the Bread-led hero: bread mark, large Bread wordmark, warm palette
+  and Gabarito typography. Use “Free for you. Friendly for business.” as the
+  headline. Lead with outcomes for users, businesses, and creators, then the
+  practical paths and exact terms. Introduce provisions through what they enable.
+  Keep generous section spacing.
   Simplifying information must not replace this identity with generic slogans
   or turn the hero into a legal-status banner. Keep draft status secondary but visible.
+- Use welcoming language without moral judgment about companies paying their
+  share. Commercial payments buy permissions; free use creates no debt of gratitude.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
 - Route to the license and practical guide, then doctrine and adopter examples.

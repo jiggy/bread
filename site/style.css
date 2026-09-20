@@ -109,7 +109,7 @@ a:hover {
 }
 
 .hero .content {
-  max-width: 46.25rem;
+  max-width: 55rem;
   padding-block: 6.25rem 3.75rem;
 }
 
@@ -125,7 +125,10 @@ a:hover {
 .tagline {
   margin: 0 0 1rem;
   color: var(--accent-light);
-  font-size: clamp(1.4rem, 3.5vw, 2rem);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  line-height: 1.12;
+  letter-spacing: -0.025em;
+  margin-bottom: 1.5rem;
   font-weight: 700;
   text-wrap: balance;
 }
@@ -173,14 +176,39 @@ a:hover {
   color: var(--accent);
 }
 
-.paths {
+.outcomes, .paths {
   background: var(--cream);
   color: var(--ink);
   color-scheme: light;
 }
 
-.paths a, .paths .eyebrow {
+.paths a, .paths .eyebrow, .outcomes .eyebrow {
   color: var(--link-on-cream);
+}
+
+.outcome-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 2.5rem;
+  margin-block: 3rem;
+}
+
+.outcome-grid h3 {
+  max-width: 17rem;
+  margin-bottom: 1.25rem;
+}
+
+.outcome-grid p, .outcome-note {
+  color: var(--ink-muted);
+}
+
+.outcome-note {
+  max-width: 40rem;
+  margin-bottom: 0;
+}
+
+.paths .content {
+  border-top: 1px solid var(--cream-border);
 }
 
 .path-grid {
