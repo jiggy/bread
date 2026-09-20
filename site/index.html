@@ -1,12 +1,13 @@
 <!doctype html>
 <html lang="en">
+  <!-- Coordinated-launch copy. Publication must accompany actual Bread/Jig adoption; this page does not issue those grants. -->
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bread License — Free for you. Friendly for business.</title>
-    <meta name="description" content="Bread review draft 0.6: source-available licensing with automatic free personal and evaluation use, free organization use below US$1m financial scale, and lasting paid release rights. Not effective." />
+    <meta name="description" content="Bread: source-available software licensing. Always free for personal use and evaluation, free for qualifying small companies, and straightforward for business." />
     <meta property="og:title" content="Bread License — Free for you. Friendly for business." />
-    <meta property="og:description" content="Free for you. Friendly for business. Put your ideas to work, build a business, and help software creators make a living. A source-available proposal; review draft, not effective." />
+    <meta property="og:description" content="Free for you. Friendly for business. Put your ideas to work, build a business, and help software creators make a living. Source-available software licensing, grounded in reciprocity." />
     <meta property="og:type" content="website" />
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🍞%3C/text%3E%3C/svg%3E" />
     <link rel="stylesheet" href="style.css" />
@@ -22,8 +23,6 @@
           Put your ideas to work. Build a business around them.
           Help the people behind the software make a living.
         </p>
-        <p class="draft-note">Review draft 0.6 · Not effective</p>
-        <p class="draft-context">Not yet ready for production adoption.</p>
       </div>
     </header>
 
@@ -105,11 +104,31 @@
         </div>
       </section>
 
+      <section class="featured" aria-labelledby="featured-heading">
+        <div class="content">
+          <p class="eyebrow">Bread in the wild</p>
+          <h2 id="featured-heading">Featured Bread-Licensed Software</h2>
+          <article class="featured-product" aria-labelledby="jig-heading">
+            <div>
+              <h3 id="jig-heading">Jig</h3>
+              <p class="featured-tagline">Build with Agents as naturally as you build with code.</p>
+            </div>
+            <div>
+              <p>Turn reusable workflows into software you can call, combine, and run under your control.</p>
+              <nav aria-label="Jig resources">
+                <a href="https://jig.md/">Explore Jig →</a>
+                <a href="https://github.com/jiggy/bread/blob/main/PRICING.md">Jig licensing &amp; pricing</a>
+              </nav>
+            </div>
+          </article>
+        </div>
+      </section>
+
       <section class="questions" aria-labelledby="questions-heading">
         <div class="content reading-width">
           <p class="eyebrow">A little deeper</p>
           <h2 id="questions-heading">The details that matter to you</h2>
-          <p class="section-intro">This page summarizes the proposal. The <a href="https://github.com/jiggy/bread/blob/main/LICENSE.md">draft license</a> contains the exact terms.</p>
+          <p class="section-intro">The short answers are here. The <a href="https://github.com/jiggy/bread/blob/main/LICENSE.md">Bread License</a> contains the exact terms.</p>
 
           <details id="qualification">
             <summary>Who qualifies for free use or evaluation?</summary>
@@ -150,6 +169,35 @@
           </details>
         </div>
       </section>
+      <section class="comparison" aria-labelledby="comparison-heading">
+        <div class="content">
+          <h2 id="comparison-heading">Bread alongside other licenses</h2>
+          <p class="section-intro">Different licenses make different tradeoffs. Here are the ones that shape how you use, share, and sell software.</p>
+          <p class="table-hint" id="comparison-help">Scroll across to compare on smaller screens.</p>
+          <div class="table-scroll" role="region" aria-labelledby="comparison-heading" aria-describedby="comparison-help" tabindex="0">
+            <table>
+              <caption>Common licenses at a glance</caption>
+              <thead><tr><th scope="col">License</th><th scope="col">Free business use</th><th scope="col">Source-sharing duty</th><th scope="col">Competing products</th><th scope="col">Open-source timing</th></tr></thead>
+              <tbody>
+                <tr class="bread-row"><th scope="row"><a href="https://github.com/jiggy/bread/blob/main/LICENSE.md">Bread</a></th><td>Companies below $1m; evaluation at any size</td><td>Distributed licensed files and changes</td><td>Yes, under published terms</td><td>No scheduled conversion</td></tr>
+                <tr><th scope="row"><a href="https://opensource.org/license/mit">MIT</a></th><td>No license fee</td><td>No source-sharing duty</td><td>Yes</td><td>Open source from the start</td></tr>
+                <tr><th scope="row"><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a></th><td>No license fee</td><td>No source-sharing duty</td><td>Yes</td><td>Open source from the start</td></tr>
+                <tr><th scope="row">BSD <a href="https://opensource.org/license/bsd-2-clause">2-Clause</a> / <a href="https://opensource.org/license/bsd-3-clause">3-Clause</a></th><td>No license fee</td><td>No source-sharing duty</td><td>Yes</td><td>Open source from the start</td></tr>
+                <tr><th scope="row"><a href="https://opensource.org/license/isc">ISC</a></th><td>No license fee</td><td>No source-sharing duty</td><td>Yes</td><td>Open source from the start</td></tr>
+                <tr><th scope="row">GPL <a href="https://opensource.org/license/gpl-2.0">2.0</a> / <a href="https://opensource.org/license/gpl-3.0">3.0</a></th><td>No license fee</td><td>Corresponding source for distributed covered works</td><td>Yes, under GPL terms</td><td>Open source from the start</td></tr>
+                <tr><th scope="row">LGPL <a href="https://opensource.org/license/lgpl-2-1">2.1</a> / <a href="https://opensource.org/license/lgpl-3-0">3.0</a></th><td>No license fee</td><td>Distributed library source; allow replacement or relinking</td><td>Yes, under LGPL terms</td><td>Open source from the start</td></tr>
+                <tr><th scope="row"><a href="https://www.mozilla.org/en-US/MPL/2.0/FAQ/">MPL 2.0</a></th><td>No license fee</td><td>Distributed covered files and changes</td><td>Yes, under MPL terms</td><td>Open source from the start</td></tr>
+                <tr><th scope="row"><a href="https://opensource.org/license/agpl-3.0">AGPL 3.0</a></th><td>No license fee</td><td>Distribution, plus source offers to remote users of modified versions</td><td>Yes, under AGPL terms</td><td>Open source from the start</td></tr>
+                <tr><th scope="row"><a href="https://fsl.software/">FSL 1.1</a></th><td>Internal use; competing offerings restricted</td><td>No source-sharing duty before conversion</td><td>Restricted before conversion</td><td>MIT or Apache after 2 years</td></tr>
+                <tr><th scope="row"><a href="https://mariadb.com/bsl11/">BSL 1.1</a></th><td>Non-production; extra uses vary by project</td><td>No source-sharing duty before conversion</td><td>Depends on the project’s extra grant</td><td>Chosen open-source license within 4 years</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="comparison-note">Bread’s free-company allowance is below US$1m a year in revenue and qualifying funding combined across the company group. <a href="#qualification">See eligibility details.</a></p>
+          <p class="comparison-note">All permissions follow the linked terms, including notices and other conditions not shown here. “No license fee” does not mean copies, hosting, or support must be free. Version differences and separate commercial offers still matter.</p>
+        </div>
+      </section>
+
       <section class="about" aria-labelledby="about-heading">
         <div class="content reading-width">
           <h2 id="about-heading">About Bread</h2>
@@ -162,25 +210,17 @@
             <summary>Is Bread open source?</summary>
             <div class="answer">
               <p>No. Bread is <strong>source-available</strong>: you can read and modify the code, but some business uses require payment. Those conditions do not meet the <a href="https://opensource.org/osd">Open Source Definition</a>.</p>
-              <p>Bread’s proposal combines broad free use with a published way to pay for commercial permissions. It does not claim OSI approval.</p>
+              <p>Bread combines broad free use with a published way to pay for commercial permissions. It does not claim OSI approval.</p>
             </div>
           </details>
 
-          <details id="license-comparison">
-            <summary>How does Bread compare with other licenses?</summary>
-            <div class="answer">
-              <p><a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a> permits commercial use without a company-size fee or a requirement to share modifications. <a href="https://www.mozilla.org/en-US/MPL/2.0/FAQ/">MPL 2.0</a> also permits commercial use without a company-size fee, but requires source access for distributed covered files and their modifications.</p>
-              <p><a href="https://github.com/getsentry/fsl.software/blob/main/FSL-1.1-ALv2.template.md">FSL</a> permits internal use and restricts competing commercial offerings. Each version gains a permissive open-source license after two years.</p>
-              <p><strong>Bread</strong> keeps personal use, evaluation, and eligible small-company use free, while charging for larger-company operations and offering paid-product customer coverage. Distributed covered code stays available to recipients. Competing products can use the same published terms; there is no scheduled conversion to open source.</p>
-            </div>
-          </details>
 
           <details id="adopting">
             <summary>Can I use Bread for my own software?</summary>
             <div class="answer">
-              <p>Bread is intended as an independently reusable model. <strong>Draft 0.6 is not effective or ready for production adoption.</strong> Legal-text reuse permissions and the Bread name policy are still proposed.</p>
-              <p>Adopters would identify the software and licensor, publish their direct prices and update periods, and provide purchase and publisher-enrollment channels while preserving the standard bargain. Read the <a href="https://github.com/jiggy/bread/blob/main/ADOPTION.md">adoption guide and publication prerequisites</a>.</p>
-              <p>The <a href="https://github.com/jiggy/bread/blob/main/JIG-ADOPTION.md">Jig adoption example</a> and <a href="https://github.com/jiggy/bread/blob/main/PRICING.md">Jig's proposed pricing example</a> illustrate one adopter's choices. They are not universal Bread prices or live offers.</p>
+              <p>Yes. Bread is a reusable licensing model for software creators. You keep your project, your customers, and your commercial relationships.</p>
+              <p>Identify your software and licensor, publish your prices and update periods, and provide purchasing and publisher-enrollment channels. Keep Bread’s standard permissions intact. Follow the <a href="https://github.com/jiggy/bread/blob/main/ADOPTION.md">adoption guide</a>.</p>
+              <p>The <a href="https://github.com/jiggy/bread/blob/main/JIG-ADOPTION.md">Jig adoption</a> and <a href="https://github.com/jiggy/bread/blob/main/PRICING.md">Jig’s pricing</a> show one project’s choices. Each project sets its own direct prices.</p>
             </div>
           </details>
         </div>
@@ -189,14 +229,14 @@
 
     <footer class="footer">
       <div class="content reading-width">
-        <p class="footer-title">Read the proposal in full.</p>
+        <p class="footer-title">Read the Bread License.</p>
         <nav aria-label="Bread reference materials">
-          <a href="https://github.com/jiggy/bread/blob/main/LICENSE.md">Draft license</a>
+          <a href="https://github.com/jiggy/bread/blob/main/LICENSE.md">Bread License</a>
           <a href="https://github.com/jiggy/bread/blob/main/ADOPTION.md">Practical guide</a>
           <a href="https://github.com/jiggy/bread/blob/main/DOCTRINE.md">Why reciprocity</a>
-          <a href="https://github.com/jiggy/bread/blob/main/JIG-ADOPTION.md">Jig adoption example</a>
+          <a href="https://github.com/jiggy/bread/blob/main/JIG-ADOPTION.md">Jig adoption</a>
         </nav>
-        <p>Bread is an independent licensing initiative. These review materials do not change any project's existing license.</p>
+        <p>Bread is an independent licensing initiative. Each project sets its own prices and grants its own licenses.</p>
         <a href="https://github.com/jiggy/bread">Bread on GitHub</a>
       </div>
     </footer>

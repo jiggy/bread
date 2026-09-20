@@ -207,30 +207,6 @@ a:hover {
   text-wrap: pretty;
 }
 
-.draft-note {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin: 0;
-  padding: 0.45rem 1.1rem;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  background: var(--bg-surface);
-  color: var(--accent-light);
-  font-family: "JetBrains Mono", monospace;
-  font-size: 0.825rem;
-  font-weight: 500;
-  letter-spacing: 0.01em;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-}
-
-.draft-context {
-  margin: 0.75rem 0 0;
-  color: var(--muted);
-  font-size: 0.875rem;
-  opacity: 0.85;
-}
-
 /* -------------------------------------------------------------
    Outcomes (The Human Promise)
    ------------------------------------------------------------- */
@@ -551,6 +527,47 @@ summary:hover {
 .answer a:hover {
   color: #FFFFFF;
 }
+
+.featured {
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.featured-product {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
+  gap: 2rem 4rem;
+  margin-top: 3rem;
+  padding: 2.5rem;
+  border: 1px solid var(--border);
+  border-radius: 0.875rem;
+  background: var(--bg-surface);
+}
+
+.featured-product h3 {
+  color: var(--accent);
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.featured-product p { color: var(--muted); }
+.featured-product .featured-tagline { color: var(--text); font-size: 1.3rem; }
+.featured-product nav { display: flex; flex-wrap: wrap; gap: 1rem 2rem; }
+
+.comparison { background: var(--bg-surface); }
+.table-hint { color: var(--muted); font-size: 0.9rem; }
+.table-scroll { overflow-x: auto; border: 1px solid var(--border); border-radius: 0.75rem; }
+.comparison table { width: 100%; min-width: 60rem; border-collapse: collapse; font-size: 0.95rem; }
+.comparison caption { text-align: left; padding: 1rem 1.25rem; color: var(--muted); }
+.comparison th, .comparison td { padding: 1rem 1.25rem; text-align: left; vertical-align: top; border-top: 1px solid var(--border); }
+.comparison th { color: var(--accent-light); }
+.comparison thead { background: var(--bg); }
+.comparison tbody th { min-width: 9rem; position: sticky; left: 0; background: var(--bg-surface); }
+.comparison thead th:first-child { position: sticky; left: 0; background: var(--bg); }
+.comparison .bread-row th { background: #3C3020; }
+.comparison td { color: var(--muted); }
+.comparison .bread-row { background: var(--accent-glow); }
+.comparison-note { color: var(--muted); font-size: 0.9rem; margin: 1.25rem 0 0; max-width: 60rem; }
 
 /* General FAQ: the naming story separates it from practical details. */
 .about {

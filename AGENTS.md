@@ -37,8 +37,10 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   examples in the adoption guide, and add clauses only for distinct obligations.
 - Give public entrypoints a concise summary of license type, free eligibility,
   payment, distribution, source obligations and lasting rights. The website
-  leads with human outcomes before this practical summary. Keep draft status
-  visible; summaries must not create or alter permissions.
+  leads with human outcomes before this practical summary. Repository documents
+  retain draft status. The site contains authorized coordinated-launch copy;
+  its local contract owns presentation and publication prerequisites. Summaries
+  must not create or alter permissions.
 - Use progressive disclosure: at most three primary paths (free use, work,
   and included product coverage), followed by optional details and authoritative
   links. Keep decisive qualifications with their path; do not replace a long

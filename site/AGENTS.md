@@ -16,8 +16,11 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 
 ## Local Contracts
 
-- Keep review version, non-effective status, and production-adoption limits
-  visible. Text-reuse and name policies remain proposed until settled upstream.
+- This site is copy prepared for the coordinated Bread/Jig launch, including
+  present-tense adoption and featured-software language. Keep draft status and
+  unresolved authority in the legal repository documents; website copy does
+  not settle them. Publish only alongside actual adoption and synchronized
+  legal/pricing destinations. Preparing or committing copy is not publication.
 - Use at most three audience cards: Individuals & evaluators, Teams & companies,
   and Redistributors & hosts. Label the audience prominently; these are roles, not
   steps or mutually exclusive plans. Keep both free and paid business use in
@@ -25,7 +28,7 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   Preserve eligibility, release rights, and product-specific coverage boundaries.
 - Keep decisive free-plan and distributed-source qualifications visible; explain
   results-only hosting versus customer environments without implying universal
-  publisher enrollment. Label Jig prices and adoption as examples.
+  publisher enrollment. Distinguish Jig’s prices from the reusable license.
 
 ## Work Guidance
 
@@ -39,7 +42,7 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   passage; do not expand it into audience columns, stacked slogans, or a
   prefatory explanation of the model. Reserve structured choices for the paths.
   Simplifying information must not replace this identity with generic slogans
-  or turn the hero into a legal-status banner. Keep draft status secondary but visible.
+  or turn the hero into a legal-status banner.
 - Use welcoming language without moral judgment about companies paying their
   share. Commercial payments buy permissions; free use creates no debt of gratitude.
 - Prefer “Always free” or “Free forever” when supported, with the scope next
@@ -55,16 +58,21 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   values slogans or another card grid. Preserve the established design.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
-- Keep practical license questions separate from the general FAQ. After the
-  details, “About Bread” opens with the visible naming story, then three
-  disclosures: open-source status, a short license comparison, and adoption.
-  Use spacing and the existing palette rather than an extra separator section.
+- After the principles, feature actual named software in the coordinated-launch
+  copy, followed by practical details, the visible license comparison table,
+  and “About Bread.” About opens with the naming story and two disclosures:
+  open-source status and adoption. Do not duplicate the comparison in the FAQ.
+- Compare common licenses as rows, using scoped headers and a keyboard-accessible
+  horizontal scroll region on narrow screens. Keep exact versions and source
+  links visible; no winner scores or unqualified green/red checkmarks.
 - Route to the license and practical guide, then doctrine and adopter examples.
   Use the actual `jiggy/bread` GitHub origin for repository document links.
 - Follow the doctrine's communication commitments; do not promise ownership,
   guaranteed income, or freedom from all lock-in. Keep license comparisons
   short and factual, link primary sources, and verify their current terms.
-  Explain different bargains without superiority claims or a large comparison table.
+  Explain different bargains without superiority claims. Keep each comparison
+  cell concise; do not imply copyleft forbids commerce or that open source
+  requires free hosting, free copies, or maintenance.
 
 ## Verification
 
