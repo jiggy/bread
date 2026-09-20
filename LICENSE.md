@@ -149,13 +149,15 @@ The onward grant does not cover extracted Software operated separately from the 
 
 ### Reporting and payment
 
-Report aggregate Covered Receipts and the resulting fee quarterly, within 30 days after quarter end. Report and settle in USD, converting quarterly net receipts by currency using section 3's exchange-rate method at quarter end. Do not round each sale's royalty; accumulate it and round only the total payment to the nearest cent. Credits from reversals of previously reported receipts offset later fees; any net overpayment is returned at final settlement.
+Report aggregate Covered Receipts and the resulting fee annually by default. The publisher may choose quarterly reporting at enrollment. Reporting periods are calendar years or calendar quarters; the first period begins on enrollment and ends at the applicable calendar period-end. Report and pay within 30 days after each period ends, with no minimum payment or balance carry-forward.
+
+The publisher may change frequency by notice to the licensing channel before the start of the next calendar year, effective from that year. A change does not reopen completed periods or postpone existing deadlines. Record the chosen frequency, including the annual default, in the enrollment confirmation and any change notice.
+
+Report and settle in USD, converting net receipts by currency using section 3's exchange-rate method at the reporting period's end. Do not round each sale's royalty; accumulate it and round only the total payment to the nearest cent. Credits from reversals of previously reported receipts offset later fees; any net overpayment is returned at final settlement.
 
 No customer list, source upload, or deployment telemetry is required.
 
-Carry a balance below US$25 until the next report, but settle all carried balances with the calendar year's final quarterly report, due 30 days after December 31, or within 30 days after enrollment ends.
-
-Receipts received after enrollment ends remain reportable and payable by the reporting deadline for the calendar quarter in which those receipts are received, without this carry allowance. Keep normal records supporting the totals.
+If enrollment ends, the current reporting period ends on that date. Report receipts not yet reported and settle outstanding amounts within 30 days, without extending an earlier deadline. Covered Receipts received afterward remain reportable and payable under the selected annual or quarterly schedule. Keep normal records supporting the totals.
 
 Following a concrete discrepancy, provide proportionate financial clarification under confidentiality; there is no general right to inspect user data, repositories, or production systems.
 

@@ -64,7 +64,9 @@ Enroll under the standard 1% agreement to include customers' licenses in your
 paid product, or clearly tell customers they need their own permission. Free
 copies and free customer hosting plans use that second route. Included licenses
 cover your product, not customers' unrelated deployments or their whole company.
-Competing products and hosts can use the same published terms.
+Competing products and hosts can use the same published terms. Report and pay
+annually by default, or choose quarterly at enrollment. Both use calendar
+periods, with reporting and payment due within 30 days after each period ends.
 
 Customers who only receive results from a hosted application need no separate
 license for its Bread-licensed backend; the operator does. Hosting customers'
