@@ -565,7 +565,7 @@ a:hover {
   color: var(--muted);
 }
 
-.paths :focus-visible, .skip-link:focus-visible {
+.outcomes :focus-visible, .paths :focus-visible, .skip-link:focus-visible {
   outline-color: var(--link-on-cream);
 }
 
