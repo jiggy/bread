@@ -1,98 +1,112 @@
 # Bread
 
-**Useful software, meaningful access, dependable rights.**
+**Free for you. Friendly for business.**
 
-Bread is a reusable source-available commercial licensing model. Its core idea
-is **reciprocity**: creators make useful work accessible, and commercial payments
-help sustain it. Those payments buy defined rights; voluntary support is separate.
+Bread is a reusable source-available commercial license for creators who want to
+keep their software accessible and earn from it. One complete product. Clear
+prices. No activation servers or license surveillance.
 
 **Review draft 0.6 — not effective or ready for production adoption.** This page
 explains the proposed [Bread License](LICENSE.md); it grants no software rights.
 
 ## Summary
 
-| Your starting point | The proposed bargain |
+| Who you are | What Bread offers |
 | --- | --- |
-| **Start free** | Personal use and genuine evaluation are free, without registration. Ordinary organization use is also free below **US$1 million in Group revenue plus qualifying funding**. |
-| **Use it at work** | At or above that threshold, operational use needs applicable coverage at the project's published prices or coverage already included with a product. Purchased ordinary release rights survive nonrenewal. |
-| **Ship with coverage** | An optional **1% of covered receipts** agreement includes customer permission for your paid product or hosted service. Coverage is specific to that offering; free products do not acquire blanket customer coverage. |
+| **Individuals & evaluators** | **Always free.** Software received under Bread stays free for personal projects and genuine evaluation. No sign-up, countdown, or commitment to buy. |
+| **Teams & companies** | **One license. Your whole company.** Free for small companies with less than **US$1m a year in revenue and funding combined**, across their company group. Ordinary loans do not count; the [funding rules](LICENSE.md#3-organization-eligibility) explain the other exclusions. Larger companies need paid or existing coverage. Each project publishes its price. |
+| **Redistributors & hosts** | **Bundle the software. Cover your customers.** An optional **1% of your product's covered receipts** can include customers' licenses for that paid product or service. Free-plan users need their own permission. |
 
-One complete product. No runtime licensing checks. The details below explain
-which path applies without changing those promises.
+Share the Bread-licensed code and your changes when distributing it. Your
+independent application code keeps its own terms. The details below explain
+the boundaries and what happens when you stop paying.
 
 ## When you need the details
 
 <details>
-<summary><strong>Free use and evaluation</strong></summary>
+<summary><strong>Personal projects, small companies, and evaluation</strong></summary>
 
-Personal use means your own non-organizational purposes; employment and client
-work follow the applicable organization's permission. Genuine evaluation is free
-at any organization, without a deadline. Routine adopted work is operational use,
-even on a developer's laptop.
+Personal use means your own projects outside an organization. Work for an
+employer or commercial client uses that organization's permission. Genuine
+evaluation is free at any organization, without a deadline. Once you adopt the
+software for routine work, use the appropriate business license—even if it runs
+only on a developer's laptop.
 
-The organization test combines controlled Group revenue and qualifying funding.
-For example, $600,000 revenue plus $200,000 qualifying funding is below the
-threshold. Free use continues while eligible. The [financial rules](LICENSE.md#3-organization-eligibility)
-define the period, exclusions and transition after growth.
+For companies, count revenue and qualifying funding across the controlled
+company group. For example, $600,000 in revenue plus $200,000 in qualifying
+funding is below the threshold. Business use stays free while the company
+qualifies. The [financial rules](LICENSE.md#3-organization-eligibility) explain
+which funding counts, the assessment period, and the transition after growth.
 
 </details>
 
 <details>
-<summary><strong>What a purchase lets you keep</strong></summary>
+<summary><strong>Cancel renewal. Keep using.</strong></summary>
 
-An ordinary purchase covers existing official releases and those published during
-its agreed Update Term, subject to disclosed exclusions. Nonrenewal or sponsorship
-cancellation ends future release coverage, not acquired rights. Included hosted
-coverage lasts for the purchased service period; it does not automatically cover
-an independently operated export. See [purchases](LICENSE.md#4-direct-organization-purchases-and-sponsorship)
+An ordinary company purchase covers existing official software versions and
+those published during the period you pay for, subject to exclusions identified
+before purchase. The license calls this period the **Update Term**. Canceling
+renewal or sponsorship leaves the period you already paid for intact. Updates
+published after that period ends are not covered by that purchase; your existing
+software permissions remain.
+
+Hosted access lasts for the service period you pay for. Taking an exported
+copy away to run yourself needs explicitly included permission or your own
+license. See [company purchases](LICENSE.md#4-direct-organization-purchases-and-sponsorship)
 and [product coverage](LICENSE.md#5-distributing-applications-and-supplying-hosted-software).
 
 </details>
 
 <details>
-<summary><strong>Products, hosting and redistribution</strong></summary>
+<summary><strong>Redistributing or hosting Bread-licensed software</strong></summary>
 
-Publishers can include customer coverage through the standard 1% agreement, or
-clearly state that recipients need their own applicable permission. Free copies
-and free customer hosting plans use that second route. Included coverage permits
-use of the supplied product, not unrelated deployments or the customer's entire
-organization. Competing hosts have the same published opportunity.
+Enroll under the standard 1% agreement to include customers' licenses in your
+paid product, or clearly tell customers they need their own permission. Free
+copies and free customer hosting plans use that second route. Included licenses
+cover your product, not customers' unrelated deployments or their whole company.
+Competing products and hosts can use the same published terms.
 
-Customers merely receiving results from a hosted application need no separate
-license; its operator needs permission. Hosting customers' own programs or
-workflows requires applicable customer coverage. The [distribution rules](LICENSE.md#5-distributing-applications-and-supplying-hosted-software)
-and [guide](ADOPTION.md#dependencies-and-downstream-notices) explain the distinction,
-resale and the combined obligations of multiple dependencies.
+Customers who only receive results from a hosted application need no separate
+license for its Bread-licensed backend; the operator does. Hosting customers'
+own programs or workflows requires customer coverage. The [distribution rules](LICENSE.md#5-distributing-applications-and-supplying-hosted-software)
+and [guide](ADOPTION.md#dependencies-and-downstream-notices) explain hosting,
+resale, and the separate obligations of multiple licensed dependencies.
 
 </details>
 
 <details>
-<summary><strong>Source, forks and your own work</strong></summary>
+<summary><strong>Sharing source, making forks, and keeping your own work</strong></summary>
 
-Distributed covered software and its modifications must include retainable source
-and build instructions. Independent application files can stay private; private
-hosting alone does not require source disclosure. Applicable upstream coverage
-includes distributed fork modifications without another permission fee to the
-modifier; upstream fees and scope still apply.
+When distributing Bread-licensed software, give recipients a source copy they
+can keep, including your changes and the required build instructions. Independent
+application files can stay private. Hosting alone does not require you to
+publish private changes.
 
-Independent outputs and extensions keep their own terms. Bread claims no
-additional royalty merely because the software helped create them. See
-[source obligations](LICENSE.md#7-source-and-patent-permissions).
+An existing upstream license covers distributed fork modifications within its
+scope, without another permission fee to the modifier. Upstream fees and
+coverage boundaries still apply.
+
+Your independent outputs and extensions keep their own terms. No extra royalty
+arises merely because Bread-licensed software helped create them. See the
+[source terms](LICENSE.md#7-source-and-patent-permissions).
 
 </details>
 
 ## Explore the model
 
-- **Maintainers:** assess suitability and the minimum adoption materials in the
-  [adoption guide](ADOPTION.md), including continuity when a maintainer retires.
-- **Buyers and builders:** read the [full proposed license](LICENSE.md).
-- **Why these choices:** read the [Bread doctrine](DOCTRINE.md).
+- **Licensing your own software:** read the [adoption guide](ADOPTION.md),
+  including what you can change and how customers stay covered if you retire.
+- **Checking the exact terms:** read the [full proposed license](LICENSE.md).
+- **Understanding the principles:** read the [Bread doctrine](DOCTRINE.md).
+
+Bread's core idea is **reciprocity**. Payments buy permissions; voluntary support
+is separate. Free users owe no contribution, promotion, or eventual purchase.
 
 Jig is the first intended adopter. Its [worked example](JIG-ADOPTION.md),
-[proposed prices](PRICING.md) and [contributor agreement](CONTRIBUTOR-AGREEMENT.md)
-are Jig-specific; they are not requirements for other Bread adopters.
+[proposed prices](PRICING.md), and [contributor agreement](CONTRIBUTOR-AGREEMENT.md)
+are Jig-specific, not requirements for other Bread adopters.
 
-The stable text, text-reuse permission and name policy still need finalization,
-alongside professional review and each adopter's actual authority and operations.
+The stable text, text-reuse permission, and name policy still need finalization,
+alongside professional review and each adopter's authority and operations.
 These drafts change no product's existing license. Repository work follows
 [AGENTS.md](AGENTS.md).

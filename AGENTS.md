@@ -33,6 +33,15 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 ## Work Guidance
 
 - Write for an unfamiliar maintainer, user, buyer, and downstream builder.
+- Lead explanatory documents with what readers can do. Prefer ordinary language
+  such as company, updates, and including customer licenses; introduce defined
+  terms only when needed. Keep audience, scope, and decisive qualifications clear.
+- Use concrete promises over abstract values slogans. Keep Jig prices labeled
+  as Jig's, and scope “always free” to personal use and genuine evaluation of
+  software received under Bread. Do not frame ordinary use as buying releases.
+- Preserve legal precision in the license and contributor agreement. Improve
+  their navigation and paragraph structure before paraphrasing operative clauses;
+  check any changed legal wording explicitly for altered rights or obligations.
 - Keep rules minimal: reuse existing definitions and grants, put explanatory
   examples in the adoption guide, and add clauses only for distinct obligations.
 - Give public entrypoints a concise summary of license type, free eligibility,
