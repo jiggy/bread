@@ -19,7 +19,7 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 - Keep review version, non-effective status, and production-adoption limits
   visible. Text-reuse and name policies remain proposed until settled upstream.
 - Use at most three audience cards: Individuals & evaluators, Teams & companies,
-  and Product builders. Label the audience prominently; these are roles, not
+  and Redistributors & hosts. Label the audience prominently; these are roles, not
   steps or mutually exclusive plans. Keep both free and paid business use in
   the organization card.
   Preserve eligibility, release rights, and product-specific coverage boundaries.
@@ -42,10 +42,17 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   or turn the hero into a legal-status banner. Keep draft status secondary but visible.
 - Use welcoming language without moral judgment about companies paying their
   share. Commercial payments buy permissions; free use creates no debt of gratitude.
-- Say “Free, with no time limit” for personal use and genuine evaluation; do
-  not imply unconditional free operational use or a guarantee about every
-  future release. Keep a concise “Principles Behind the Bread” section linked
-  to the doctrine, using the established design rather than another card grid.
+- Prefer “Always free” or “Free forever” when supported, with the scope next
+  to the claim: personal use and genuine evaluation of software received under
+  Bread. Do not promise unconditional business use or every future release.
+- Use ordinary language in audience cards: small companies, revenue and funding
+  combined, one license for the company, and redistributors of licensed software.
+  Keep the company-group scope visible; explain exact financial rules deeper.
+  Do not present Jig’s proposed $10 starting price as a universal Bread price.
+- Keep “Principles Behind the Bread” concrete: full features, no runtime
+  enforcement, continuing use after nonrenewal, independent application rights,
+  competition, and published purchasing terms. Link to the doctrine; avoid vague
+  values slogans or another card grid. Preserve the established design.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
 - Route to the license and practical guide, then doctrine and adopter examples.
