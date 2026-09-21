@@ -3,7 +3,7 @@
 ## Purpose
 
 Introduce the possibilities Bread creates for users, businesses, and creators,
-then explain its proposed reciprocity bargain through practical paths and deeper
+then explain its reciprocity bargain through practical paths and deeper
 details. Help unfamiliar users understand the benefits before assessing terms.
 
 ## Ownership
@@ -17,9 +17,9 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 ## Local Contracts
 
 - This site is copy prepared for the coordinated Bread/Jig launch, including
-  present-tense adoption and featured-software language. Keep draft status and
-  unresolved authority in the legal repository documents; website copy does
-  not settle them. Publish only alongside actual adoption and synchronized
+  present-tense adoption and featured-software language. The license and each
+  adopter's notice own version and authority; website copy does not establish
+  adoption. Publish only alongside actual adoption and synchronized
   legal/pricing destinations. Preparing or committing copy is not publication.
 - Use at most three audience cards: Individuals & evaluators, Teams & companies,
   and Redistributors & hosts. Label the audience prominently; these are roles, not
@@ -51,7 +51,7 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 - Use ordinary language in audience cards: small companies, revenue and funding
   combined, one license for the company, and redistributors of licensed software.
   Keep the company-group scope visible; explain exact financial rules deeper.
-  Do not present Jig’s proposed $10 starting price as a universal Bread price.
+  Do not present Jig’s $10 starting price as a universal Bread price.
 - Keep “Principles Behind the Bread” concrete: full features, no runtime
   enforcement, continuing use after nonrenewal, independent application rights,
   competition, and published purchasing terms. Link to the doctrine; avoid vague
@@ -91,7 +91,7 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 ## Verification
 
 - Check local links and fragment targets, whitespace diffs, and consistency with
-  doctrine and current draft terms, including upstream permission for forks.
+  doctrine and issued terms, including upstream permission for forks.
 - Check HTML structure, heading order, landmarks, descriptive links, native
   disclosure controls, and focus/contrast basics.
 - Manually open the static page in a browser to verify keyboard navigation,

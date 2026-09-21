@@ -13,7 +13,7 @@ The names, release records, contacts, and prices below are teaching examples.
 | Licensor | Lantern Tools, a fictional rights holder; an actual adoption needs a verified legal identity, notice address, and licensing capacity. |
 | Authorized seller | The Licensor itself. |
 | Licensing/notices contact | licensing@lantern.example — illustrative only, not an operating channel. |
-| Bread text | [Bread License — review draft 0.6](LICENSE.md); an actual adoption retains the exact adopted text. |
+| Bread text | [Bread License pre-1.0](LICENSE.md); an actual adoption retains the exact adopted text. |
 | Official releases | An illustrative release ledger records Ledger Engine 1.0 as first published on 2030-01-01 at 00:00 UTC; actual releases need retained identifiers and publication records. |
 | Separate material | Third-party dependencies and independently authored applications retain their own terms, listed with the release inventory. |
 | Direct pricing | Illustrative schedule E-1 below, dated 2030-01-01, in USD. |
@@ -66,6 +66,6 @@ licensed dependencies would keep their own obligations.
 An adopter supplies its own verified identities, authority, release inventory,
 contacts, prices, and purchasing and enrollment operations. Contribution
 arrangements are its own choice, separate from Bread's fixed bargain. Complete
-the [publication prerequisites](ADOPTION.md#before-publishing-a-stable-adoption)
+the [publication prerequisites](ADOPTION.md#before-publishing-an-adoption)
 before making an actual offer. This example executes no agreement and changes
 no existing license.

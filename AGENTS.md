@@ -12,7 +12,7 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - `README.md` owns the plain-language first impression and Summary, then routes
   readers to the doctrine and current working materials. `site/` presents the
   same bargain as a static website; its local instructions own presentation.
-- `LICENSE.md` owns the reusable draft's fixed permissions and commercial-rights
+- `LICENSE.md` owns Bread License pre-1.0's fixed permissions and commercial-rights
   baseline. `ADOPTION.md` owns the effective text-reuse permission and name
   policy, permitted fields, adopter duties and the notice template. Text reuse
   does not grant software rights; the guide adds no software conditions.
@@ -33,7 +33,7 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   English text; permitted adopter facts, commercial choices, and additional
   grants stay separate. Formatting preserves text and order; explanatory
   translations are labeled non-authoritative. Other text changes require a
-  distinct name. Legal-text draft status is separate.
+  distinct name. Preserve issued text; changes to it require a new version.
 - Keep doctrinal content in `DOCTRINE.md`; do not duplicate it in operating guides.
 - Distinguish design authority from effective legal grants. Updating this
   repository does not change licenses elsewhere or execute agreements.
@@ -59,8 +59,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - Give public entrypoints a concise summary of license type, free eligibility,
   payment, distribution, source obligations and lasting rights. The website
   leads with human outcomes before this practical summary. Repository documents
-  identify the legal text as a review draft while distinguishing the effective
-  text-reuse and name policy. The site contains authorized coordinated-launch copy;
+  identify the issued license version separately from each adopter's status.
+  The site contains authorized coordinated-launch copy;
   its local contract owns presentation and publication prerequisites. Summaries
   must not create or alter software permissions.
 - Use progressive disclosure: at most three primary paths (free use, work,

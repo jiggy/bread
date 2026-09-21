@@ -6,8 +6,8 @@ Bread is a reusable source-available commercial license for creators who want to
 keep their software accessible and earn from it. One complete product. Clear
 prices. No activation servers or license surveillance.
 
-**Review draft 0.6 — not effective or ready for production adoption.** This page
-explains the proposed [Bread License](LICENSE.md); it grants no software rights.
+**Bread License pre-1.0.** This page explains the [license](LICENSE.md); software
+permissions come from each licensor's adoption of that text.
 
 ## Summary
 
@@ -99,7 +99,7 @@ arises merely because Bread-licensed software helped create them. See the
 
 - **Licensing your own software:** read the [adoption guide](ADOPTION.md),
   including what you can change and how customers stay covered if you retire.
-- **Checking the exact terms:** read the [full proposed license](LICENSE.md).
+- **Checking the exact terms:** read the [full license](LICENSE.md).
 - **Understanding the principles:** read the [Bread doctrine](DOCTRINE.md).
 
 Bread's core idea is **reciprocity**. Payments buy permissions; voluntary support
@@ -131,7 +131,7 @@ explanations. The [name policy](ADOPTION.md#text-reuse-and-the-bread-name)
 defines these boundaries and makes no claim of trademark registration or
 endorsement of adaptations.
 
-The legal text remains **review draft 0.6**. Its finalization, professional
-review, and each adopter's authority and operations remain separate from this
-text-reuse permission. These drafts change no product's existing license.
-Repository work follows [AGENTS.md](AGENTS.md).
+Each adopter is responsible for its authority, commercial operations, and
+review of its actual arrangements. The reusable text does not relicense a
+product by itself or imply legal certification. Repository work follows
+[AGENTS.md](AGENTS.md).

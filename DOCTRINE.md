@@ -219,7 +219,7 @@ Changing a draft is different from changing an issued grant. A new version
 must identify its differences and respect existing commitments. A doctrinal
 revision, new website, or new operator cannot rewrite an accepted bargain.
 
-The present proposal is source-available commercial licensing. Explain its
+Bread is source-available commercial licensing. Explain its
 actual freedoms and restrictions. Do not imply open-source approval, legal
 certification, guaranteed maintainer income, or universal procurement acceptance.
 

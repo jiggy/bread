@@ -1,9 +1,8 @@
 # Adopting Bread
 
-The [Bread License](LICENSE.md) remains **review draft 0.6**, not an effective
-software grant. The text-reuse permission and name policy below apply now.
-Use this guide to assess a proposed adoption. Before making an actual offer,
-resolve the publication prerequisites at the end of this guide.
+The [Bread License pre-1.0](LICENSE.md) supplies the standard terms. The text-reuse
+permission and name policy below let you adopt it freely. Before making an
+actual offer, complete your adoption notice and the preparations in this guide.
 The [fictional example](EXAMPLE-ADOPTION.md) uses the same procedure and includes
 a self-contained illustrative price schedule; it grants no rights.
 
@@ -35,7 +34,7 @@ Permission is granted to anyone to copy, reproduce, translate, adopt, adapt,
 and distribute the Bread license text and adoption materials freely, including
 for commercial purposes. No fee, royalty to the Bread initiative, membership,
 registration, or individual approval is required. This permission applies now,
-including to the review draft; it does not grant rights in software that uses
+including to earlier review drafts; it does not grant rights in software that uses
 or illustrates the model.
 
 You may identify an instrument as **Bread License** with its applicable version
@@ -150,7 +149,7 @@ An incomplete example does not put the license into effect. Identify specific
 releases when putting an adoption into effect; do not use a broad notice that
 silently covers material already licensed differently. Keep the exact accepted
 notice and price versions with commercial records. No project needs permission
-from another adopting project merely to use the proposed model.
+from another adopting project merely to use the model.
 
 ## Dependencies and downstream notices
 
@@ -272,11 +271,11 @@ them; an outage alone is neither a waiver nor a loss of permission. Existing
 customers keep their rights. Someone without coverage does not acquire a new
 grant merely because sales have closed; free allowances still apply normally.
 
-## Before publishing a stable adoption
+## Before publishing an adoption
 
-The steward must finalize the reusable legal text and its adoption status.
-The text-reuse permission and name policy above are already in effect; they do
-not make the draft an issued software license or settle an adopter's authority.
+Identify Bread License pre-1.0 and retain its exact text. The text-reuse permission
+and name policy do not supply an adopter's authority over software or make its
+commercial operations ready.
 
 Have the actual license and concrete failure cases reviewed: how grants take
 effect, authority to cover future releases, continuity of customer rights,
@@ -284,8 +283,10 @@ contributor rights, mandatory software and consumer rights, taxes, and payment
 arrangements. Neither agent testing nor this guide supplies that approval. Actual party
 identities and operational contacts must be settled by each adopter.
 
-During review, an SPDX record can use a locally unique `LicenseRef-` identifier
+An SPDX record can use a locally unique `LicenseRef-` identifier
 with the actual extracted text, following the [SPDX specification](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/).
-Include the draft identifier and adoption facts; do not imply an SPDX-listed
-license, OSI approval, or legal certification. A stable identifier is a later
-publication decision.
+For example, use `LicenseRef-Bread-pre-1.0` for the unchanged text in that record,
+with the adoption facts separately identified. This is a local reference, not
+an SPDX-listed identifier, OSI approval, or legal certification. Follow each
+package ecosystem's metadata conventions; a local SPDX reference does not
+guarantee recognition by a package registry.

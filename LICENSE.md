@@ -1,6 +1,6 @@
-# Bread License — review draft 0.6
+# Bread License pre-1.0
 
-**DRAFT — NOT EFFECTIVE.** This reusable candidate is not an issued software license or a live commercial offer. It becomes applicable only through an actual Licensor's express adoption for identified material. The adoption notice supplies the facts below; neither an example nor editing this repository adopts it for any software.
+This license applies when a Licensor expressly adopts it for identified material. The Adoption Notice supplies the facts below. Publishing this reusable text or an adoption example does not by itself license any software.
 
 An **Adoption Notice** identifies the **Software**, its **Licensor** (the rights holder making these grants, distinct from any sales operator), notices and licensing contacts, authorized sellers, official release records, and dated direct pricing schedule. These facts do not alter this license's permissions. A seller's invoice does not transfer ownership. A shared Bread license name does not combine separate licensors, products, or payment obligations.
 
