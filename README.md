@@ -141,6 +141,12 @@ explanations. The [name policy](ADOPTION.md#text-reuse-and-the-bread-name)
 defines these boundaries and makes no claim of trademark registration or
 endorsement of adaptations.
 
+Before adopting Bread, ask a qualified lawyer to review how it fits your project
+and circumstances. The legal materials are supplied without a suitability warranty
+and with the [text-reuse liability limits](ADOPTION.md#text-reuse-and-the-bread-name).
+Use public issues for wording feedback, not confidential facts or requests for
+legal advice. Discuss private matters with your own adviser.
+
 Each adopter is responsible for its authority, commercial operations, and
 review of its actual arrangements. The reusable text does not relicense a
 product by itself or imply legal certification. Repository work follows

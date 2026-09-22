@@ -87,6 +87,12 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - Keep ordinary evaluation separate from operational use. Do not add rollout
   allowances, post-term security-update exemptions, mandatory compensation
   governance, or duplicate-purchase automation.
+- Keep the reusable terms jurisdiction-neutral. Adopter-specific legal findings
+  belong in that adopter's review, not in the universal license.
+- Keep software liability and legal-template liability separate. Preserve acquired
+  permissions, promised performance, refunds and mandatory rights when limiting
+  damages. Purchase caps follow the affected purchase price, not recent payments.
+  Treat changes to this allocation as policy changes, not wording corrections.
 - Keep temporary review records outside the normative documents.
 - Set delegated agents to `medium` reasoning effort explicitly; never use an
   effort higher than the coordinating agent.
@@ -98,7 +104,9 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 ## Verification
 
 Check local Markdown links, whitespace diffs, and consistency against the
-doctrine. Check that the generic license contains no adopter-specific identity
+doctrine. Check software defects versus express purchase commitments, multiple
+claims, nonrenewal, refunds, mandatory exceptions, and the separate text-reuse
+disclaimer. Check that the generic license contains no adopter-specific identity
 or price schedule and that examples use its fixed bargain. These checks do not
 establish legal enforceability. Exercise nested corporate control, removed release
 downloads, seller authority limits, company growth, a second app using a covered release,

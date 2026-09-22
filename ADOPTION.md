@@ -30,6 +30,16 @@ registration, or individual approval is required. This permission applies now,
 including to earlier review drafts; it does not grant rights in software that uses
 or illustrates the model.
 
+The Bread license text and adoption materials are provided as is, without
+warranties or conditions, including any promise that they suit your circumstances.
+They are not individualized legal advice. To the extent the law allows, their
+authors, contributors, and reviewers are not liable for damages from using or
+reusing these materials or exercising this text-reuse permission, whether direct,
+indirect, or consequential, regardless of the type of legal claim. This does not
+exclude or limit fraud, intentional wrongdoing, or liability that cannot legally
+be excluded or limited. It applies to the legal materials, not to commitments
+made by an adopter or seller about its software or services.
+
 You may identify an instrument as **Bread License** with its applicable version
 or draft identifier only when its standard English license text is reproduced
 unchanged. The following are permitted without changing that name:
@@ -254,9 +264,13 @@ in the adopter's software and supplies no missing sales authority.
 
 Review the actual grant authority, purchase formation, source and patent scope,
 individual protection, continuation mechanism, and mandatory obligations with
-appropriate professional advice. Review direct-loss exposure: Bread's liability
-exclusion does not generally exclude or cap all damages. Agent scenarios test
-interpretation, not legal enforceability or willingness to pay. Do not claim a required compensation
+appropriate professional advice. Check whether local law permits the software
+damages exclusions and the cap for express purchase commitments. That cap uses
+the agreed license prices of purchases whose commitments were breached, each
+counted once, not recent payments. It does not cap refunds or mandatory rights;
+separately purchased services and express commitments outside company purchases
+have no stated direct-damages cap here. Agent scenarios test interpretation,
+not legal enforceability or willingness to pay. Do not claim a required compensation
 structure or recurring payment from companies merely retaining covered releases.
 
 For software records, a locally unique `LicenseRef-Bread-pre-1.0` may identify the
