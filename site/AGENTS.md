@@ -25,10 +25,14 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   and Redistributors & hosts. Label the audience prominently; these are roles, not
   steps or mutually exclusive plans. Keep both free and paid business use in
   the organization card.
-  Preserve eligibility, release rights, and product-specific coverage boundaries.
-- Keep decisive free-plan and distributed-source qualifications visible; explain
-  results-only hosting versus customer environments without implying universal
-  publisher enrollment. Distinguish Jig’s prices from the reusable license.
+  Preserve eligibility, release rights, and company-wide covered-release boundaries.
+- Keep distributed-source obligations visible. An independent provider uses its
+  own permission for service access, including supplied browser execution;
+  customer-controlled deployments use the customer's permission. No royalty,
+  publisher coverage, free-plan distinction, or customer workflow classification.
+- Supplier-assisted purchases name the actual customer Group. Only upstream
+  payment or express credit acceptance creates coverage; a supplier's invoice
+  or license cannot substitute. Distinguish Jig's prices from Bread's rules.
 
 ## Work Guidance
 
@@ -48,10 +52,10 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 - Prefer “Always free” or “Free forever” when supported, with the scope next
   to the claim: personal use and genuine evaluation of software received under
   Bread. Do not promise unconditional business use or every future release.
-- Use ordinary language in audience cards: small companies, revenue and funding
-  combined, one license for the company, and redistributors of licensed software.
+- Use ordinary language in audience cards: small companies, annual consolidated
+  revenue, one license for the company, and redistributors of licensed software.
   Keep the company-group scope visible; explain exact financial rules deeper.
-  Do not present Jig’s $10 starting price as a universal Bread price.
+  Do not present Jig’s $100 starting price as a universal Bread price.
 - Keep “Principles Behind the Bread” concrete: full features, no runtime
   enforcement, continuing use after nonrenewal, independent application rights,
   competition, and published purchasing terms. Link to the doctrine; avoid vague
@@ -64,8 +68,9 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   software being used, bundled, or hosted; never imply Bread governs unrelated
   products or independent app code.
 - Keep this a selling page, not a second contract. State that separately licensed
-  components have separate obligations; leave cumulative royalty calculations
-  and detailed reporting procedures to the adoption guide and license.
+  components have separate obligations; leave detailed transaction and continuation mechanics to the adoption guide
+  and license. Each company purchase covers at least twelve months of new
+  releases; acquired release rights survive nonrenewal.
 - Preserve concise free-use messaging, accessible contrast, visible keyboard
   focus, and readable narrow-screen layouts. Avoid exhaustive entrypoint tables.
 - After the principles, feature actual named software in the coordinated-launch

@@ -1,32 +1,25 @@
 # Adopting Bread
 
-The [Bread License pre-1.0](LICENSE.md) supplies the standard terms. The text-reuse
-permission and name policy below let you adopt it freely. Before making an
-actual offer, complete your adoption notice and the preparations in this guide.
-The [fictional example](EXAMPLE-ADOPTION.md) uses the same procedure and includes
-a self-contained illustrative price schedule; it grants no rights.
+Bread License pre-1.0 gives free personal use, qualifying business use, and evaluation,
+with company-wide purchases for larger businesses. A purchase provides lasting
+rights to covered releases and at least twelve months of new official releases.
+The [license](LICENSE.md) fixes the bargain; this guide explains how to adopt it.
+The [fictional example](EXAMPLE-ADOPTION.md) includes its own illustrative
+price schedule and grants no rights.
 
-## Decide whether it fits
+## Is it suitable?
 
-Bread offers three ways to get permission:
+Use Bread when you want to sell permission for one complete software product,
+keep individual experimentation easy, and publish a predictable business price.
+It funds the designated licensing steward; it does not distribute income among
+contributors or guarantee renewals. A company can buy once and maintain its
+covered release or a permitted fork indefinitely.
 
-- **Free use:** personal use, use by qualifying organizations, and evaluation
-  are automatically allowed. Qualifying free use requires no payment,
-  contribution, promotion, or expression of gratitude.
-- **Organization purchases:** organizations can buy coverage directly. Rights
-  to covered releases continue if the organization does not renew.
-- **Included product coverage:** an optional 1% paid-distribution agreement
-  lets publishers include coverage for their customers.
-
-When covered software is distributed, its covered source remains available.
-Independent application code keeps its own license.
-
-It is intended first for substantial software products. It is not a promise
-that a stack of small separately payable dependencies is economical or simple.
-Each independent licensor has its own agreement, receipts, records, and payments.
-There is no shared Bread account, blanket license, pooled royalty, or initiative
-fee. Before selecting dependencies, determine both the total obligations and the
-permissions your customers receive.
+Bread is most suitable for a deliberate selection of substantial products.
+Each independently licensed dependency can create a separate company purchase.
+A common name does not combine sellers, prices, or entitlements. A downstream
+builder must be able to identify those combined obligations before distribution.
+There are no royalties to Bread, required membership, or shared billing service.
 
 ## Text reuse and the Bread name
 
@@ -61,232 +54,197 @@ a modified instrument and must use a distinct license name under this policy.
 Permission to adapt the text does not imply endorsement of the result. This
 naming policy makes no claim of trademark registration.
 
-## Keep the bargain fixed; supply the facts
+## Fixed rules and adopter choices
 
-The license sets the rules. Adopters choose the permitted commercial details,
-identify who and what the license covers, and carry out the duties below.
-Capitalized terms such as Financial Scale, Group, and Update Term keep their
-exact meanings in the [license](LICENSE.md).
-
-| Category | What belongs here |
+| Category | Content |
 | --- | --- |
-| Fixed rules | The $1m Financial Scale boundary and definition; automatic evaluation; perpetual covered-release rights; Group scope; source obligations; standard 1% rate, receipts, reporting and product coverage; remedies and continuity. |
-| Commercial choices | Published direct amounts, bands, billing currency and Update Terms; optional sponsorship and separately stated services or benefits. These cannot narrow the fixed rights or change the standard distribution rate. |
-| Identifying facts | Software and covered material; actual Licensor; authorized seller; contacts; official release records; exact license and price-schedule versions. |
-| Adopter responsibilities | Have authority for the grants; make purchasing and enrollment available while offers are open; deliver required source; preserve accepted terms and publication records; issue durable coverage records; honor acquired customer rights through seller changes. |
+| Fixed bargain | US$1m consolidated Annual Revenue threshold; personal and evaluation grants; Group scope; at least twelve-month Update Terms; permanent covered-release rights; distribution, hosting, source, supplier-purchase and continuity rules |
+| Commercial choices | Published prices, revenue bands above the free threshold, billing currency, offered Update Terms of at least twelve months, and express credit arrangements |
+| Identifying facts | Software scope, Licensor, authorized sellers, working contacts, official release records, retained license and dated price schedule |
+| Adopter duties | Possess grant authority; publish an ordinary purchase route; preserve accepted terms and release records; issue customer confirmations; provide corresponding source when distributing; honor acquired rights and the continuation grant |
 
-A more generous allowance must be labeled an additional grant. Narrower
-eligibility, an ordinary license available only as a rental, distribution
-available only through negotiation, a different royalty, or a restriction on
-competition changes the license itself. Such a license cannot be presented as
-this Bread License with different pricing. Adopters choose how to govern
-contributions; project-specific contributor agreements are not part of Bread.
+Prices can differ among adopters. Shorter paid terms, corporate runtime rental,
+a customer royalty, a competing-product prohibition, or narrower free eligibility
+would change the standard license, rather than fill a pricing field. Identify a
+modified instrument under a different name. Additional grants may expand rights
+if clearly identified. Support and sponsorship are separate commercial offers;
+they do not change Bread's purchased permissions or minimum term.
 
-## Prepare an adoption
+## Set up the ordinary path
 
-### 1. Check your authority
+1. **Identify what you can license.** Preserve third-party terms and ensure
+   contributors and sales operators supply sufficient authority, including for
+   accepted future-release commitments and the continuation grant. Bread requires no particular
+   contribution agreement or governance.
+2. **Supply the notice, exact text, and prices.** A monitored email address,
+   ordinary invoices, and retained records can implement the purchasing route.
+   No portal or license-validation infrastructure is required.
+3. **Preserve official releases.** Keep identifiers and first-publication times
+   in UTC. Do not replace release bytes or use a major-version label to exclude
+   material promised by an accepted Update Term.
+4. **Issue the customer's confirmation.** The record identifies the actual
+   Group, not a supplier's customers collectively. Send it directly to the
+   customer and copy its purchasing supplier if applicable.
 
-Identify the material you can license and the licenses that remain separate.
-Check contributor and dependency permissions. A file named `LICENSE.md`
-does not supply missing authority or revoke old licenses.
-
-### 2. Publish the text, prices, and contacts
-
-Keep the exact Bread text and version with the software. Complete the notice
-below alongside it. Publish the direct pricing schedule and working contacts
-for purchases and publisher enrollment. A monitored email channel and ordinary
-records can satisfy this; a custom billing platform is not required.
-
-### 3. Keep release records
-
-Preserve official release identifiers and first-publication timestamps in UTC.
-An accepted Update Term includes existing official releases and those first
-published during that term, even if later public terms change. Obtain the
-authority to cover those releases before promising it. A major version or
-ordinary rename cannot take away coverage already acquired.
-
-### 4. Give buyers records they can keep
-
-Give buyers a durable copy of their accepted terms and order. Record the
-Licensor/seller, covered Software and customer Group, exact license and dated
-pricing schedule, full price and taxes, Update Term dates, payment or accepted
-invoice, and renewal and cancellation choices. Email or a downloadable document
-is enough.
-
-### 5. Record publisher enrollments and customer coverage
-
-For a publisher enrollment, preserve the parties, named offering, accepted
-license version, receipt date, and reporting period (annual by default, or
-a shorter number of whole calendar months chosen by the publisher). Keep any notice changing frequency for the
-next calendar year. Apply section 6 without individual product
-approval. Each time the publisher supplies included coverage, it records the
-named product, covered Software releases, and the customer's coverage for
-delivered copies or the hosted period. It reports aggregate receipts; no
-customer list goes to the Licensor.
-
-These duties belong to the adopter. Free users do not have to register,
-contact sales, or get a certificate. Preserve grants when a seller changes;
-do not make a live registry or runtime license server the evidence of permission.
+Free users and evaluators need none of these administrative steps.
 
 ### Adoption notice template
 
 ```text
-Status: [Proposed, not effective / expressly adopted from stated release]
-Software: [name and precise covered material or paths]
-Licensor: [legal identity, notice address, and licensing capacity]
-Authorized seller(s): [identity and scope, or Licensor itself]
-Licensing and notices contact: [working address/channel]
-Bread text: [exact version and retained local copy]
-Official releases: [publication record and release identifiers]
-Separate material: [dependencies/projects and where their terms are supplied]
-Direct pricing: [dated schedule, currency, amounts/bands, offered Update Terms]
+Software: [family name and precise covered material]
+Licensor: [legal identity, notice address, licensing capacity]
+Authorized sellers: [identity and actual authority, or Licensor itself]
+Licensing and notices: [working channels]
+Bread text: Bread License pre-1.0 [retain exact local text]
+Applies from: [identified source/release]
+Official releases: [identifiers and publication records]
+Separate material: [scope and location of other licenses]
+Pricing: [dated schedule, currency, bands, terms of at least twelve months]
 Purchase channel: [working route]
-Publisher enrollment: [working receiving route for section 6 acceptance]
-Additional grants: [none, or clearly identified expansion of rights]
+Additional grants: [none, or identified expansion]
 ```
 
-An incomplete example does not put the license into effect. Identify specific
-releases when putting an adoption into effect; do not use a broad notice that
-silently covers material already licensed differently. Keep the exact accepted
-notice and price versions with commercial records. No project needs permission
-from another adopting project merely to use the model.
+An example or incomplete notice does not adopt Bread for software. An actual
+adoption identifies the material and source/release from which it applies.
 
-## Dependencies and downstream notices
-
-### Check each dependency and its cost
-
-An application publisher should list each separately licensed component,
-its version, Licensor, and how permission is obtained. For each component,
-either recipients use their own applicable permission or an applicable
-agreement includes coverage with the product. Do not describe all dependencies
-as included when one still requires separate permission.
-
-Two independent components each subject to 1% of the same $100 of Covered
-Receipts mean $1 to each Licensor and two aggregate reporting relationships.
-Five mean $5 and five reporting relationships, not one shared 1% payment. Apply
-each agreement's actual receipts definition; deductions, bundles, reseller status,
-and existing coverage can change the result. Five agreements mean five reports per full calendar year on the annual default,
-twenty if the publisher chooses quarterly for all five, or sixty if monthly.
-Other whole-month periods are also allowed; the final period of each calendar
-year ends on December 31. Report and pay
-within 30 days after each period ends; there is no small-balance carry-forward.
-A frequency change takes effect next calendar year after notice before that
-year starts, without postponing existing deadlines.
-
-Prefer Bread for a deliberate selection of substantial products; do not
-recommend it indiscriminately for every small dependency. A shared license name
-removes neither accounting tasks nor other dependencies' restrictions.
-
-### Resell a covered product
-
-For covered resale, keep the original publisher's product coverage and the
-wholesale supply's stated onward scope and quantity: what coverage can be
-passed to customers, and how much. One end-user purchase does not create
-unlimited customer grants. A grant already supplied for identified releases
-and a stated onward scope and quantity can still be passed on after enrollment
-ends. Prepaying for a future grant cannot. For example, a $40 wholesale supply
-for one onward customer, resold for $100, produces $0.40 royalty for the original
-publisher and no additional reseller royalty.
-
-Suppose that reseller adds independently licensed workflows and an interface
-that uses the upstream product, then sells the package under its own name.
-Its customer notice identifies the upstream product and the onward coverage
-supplied for it. That coverage remains sufficient: the new
-interface, workflows, branding, and combined price do not trigger another royalty.
-A security repair within that product or calling its runtime directly instead
-of its original interface does not by itself require new coverage. The decisive
-facts are the supplied onward grant and the product it covers, not the interface,
-branding, or the originality of the package.
-
-### Recognize when extra permission is needed
-
-If the reseller instead extracts the runtime to operate separately from that
-product, or supplies more customer grants than it obtained, the onward grant
-does not cover those uses. To include that additional coverage, it needs an
-applicable additional onward grant or its own publisher enrollment.
-Alternatively, recipients can use their own applicable permissions.
-For its enrolled offering with $100 of Covered Receipts, it owes $1 without
-deducting component costs or upstream royalties. Permissions for independently
-owned upstream material still need checking.
-
-Extensive permitted customization or broad workloads do not alone make a
-customer's purchased product an unrelated deployment. Using its covered
-component independently in another product needs an applicable permission.
-Decide by the product scope, not by how much code is original or what percentage
-has changed.
-
-### Distribute a fork
-
-For a fork supplied without included product coverage, the upstream Licensor's
-applicable permission covers distributed modifications under section 7. For
-example, B distributes a fork of A's software, and a large company purchases
-A's organization coverage for its underlying release. No second organization
-license from B is required for B's distributed modifications. This also applies
-to successive forks and later modifications of already-covered releases;
-incorporating uncovered upstream releases still requires applicable permission.
-B may charge for supplying copies, optional services, or independently licensed
-additions, but not another permission fee for those covered modifications.
-
-### Tell customers what coverage they receive
-
-Publishers must give recipients a supply notice they can keep under section 5.
-It may be included on the invoice or with the download:
+### Ordinary coverage record
 
 ```text
-[Product/release] includes [covered Software/release identifiers] under
-[Licensor's Bread License version and retained text]. Coverage is for this
-product, not unrelated deployments or other products. [Delivered copies:
-perpetual acquired-release coverage / Hosted access: stated covered dates].
-Source and notices: [for distributed copies: retainable covered source and
-build instructions; hosting alone does not require source disclosure].
-Other components/permissions: [list, or link to supplied inventory].
+Licensor / authorized seller: [identities]
+Customer Group / controlling parent: [legal identity]
+Software family: [identified scope]
+Annual Revenue band: [customer declaration]
+Accepted terms: [retained Bread text, adoption notice, dated price schedule]
+Price / taxes / payment: [amounts and receipt, or credit below]
+Credit, if accepted: [authorized seller's express acceptance, debtor, due date]
+Update Term: [inclusive start, exclusive end; UTC; at least twelve months]
+Covered Releases: existing official releases plus releases first published
+  during this term, subject to [identified existing exclusions, or none]
+Official release records: [retained identifiers and publication times]
+Renewal choice and cancellation route: [details]
+Purchasing supplier, if any: [identity; no authority to issue this grant]
 ```
 
-For a free product or a paid product without included coverage, replace the
-inclusion statement with a clear explanation that recipients need their own
-applicable permission. Paid coverage elsewhere does not cover a free plan.
+The order and confirmation may be one document. They do not need cryptographic
+signatures, activation tokens, an employee roster, or a public customer registry.
+Do not invent a second entitlement system inside the confirmation.
 
-### Explain hosted coverage and charges
+## Purchasing through a supplier
 
-Permission for hosted use alone does not promise an export right, continued
-service, or future maintenance. State any delivered-copy coverage and service
-commitments expressly. Hosting alone does not require disclosure of private modifications.
-For an enrolled paid service, charges remain Covered Receipts when priced per
-result; independently selling an artifact created with the Software does not
-by itself require enrollment or an output royalty.
+Suppose Northstar wants Joe's $100 application and needs a first $120 Ledger
+Engine purchase under the fictional example's schedule. Joe may order from
+Lantern Tools with Northstar's authorization, naming Northstar and its declared
+band. Lantern receives $120, issues Northstar's company coverage, and sends
+confirmation to Northstar and Joe. Joe can then invoice his application and the
+upstream purchase together. Alternatively, Northstar pays upstream itself.
+Joe's own entitlement cannot cover Northstar.
 
-## If the maintainer stops
+Joe is a purchasing intermediary, not an agent authorized to issue Ledger Engine licenses
+or collect money on its behalf. Before collecting an upstream charge, he must
+explain that paying Joe alone does not acquire the upstream entitlement.
+He may advance the upstream payment; ordinary credit is possible only if the
+upstream seller expressly accepts it. A self-written receipt cannot replace
+that transaction. This does not prevent ordinary fraud, but it does not authorize
+Joe to create a valid upstream license while withholding its purchase price.
 
-Section 8 lets a Licensor close new offers immediately. Existing release rights,
-accepted Update Terms and publisher agreements continue. The Licensor can hand
-administration to an authorized successor, or permanently waive future royalties
-and reporting for existing publisher enrollments and settle outstanding balances.
-A waiver keeps the agreed coverage, including any later releases it would cover;
-it does not require the maintainer to produce new releases.
+Once acquired, Northstar's grant survives Joe's business failure. Another app
+using the same covered Ledger Engine release requires no second purchase. An app
+requiring a newer, uncovered official release may require another Update Term.
+The underlying first-adoption price remains real even when Joe combines invoices.
 
-For example, a publisher already enrolled for a paid product can continue under
-its agreement after new enrollments close. If payment becomes impossible, it
-retains its reports and amounts due until an authorized recipient can receive
-them; an outage alone is neither a waiver nor a loss of permission. Existing
-customers keep their rights. Someone without coverage does not acquire a new
-grant merely because sales have closed; free allowances still apply normally.
+## Distributing products and forks
+
+Free and paid products follow the same rule: include the license, release
+identification, notices, and corresponding covered source. Independently operated
+business installations require their responsible Group's applicable permission.
+Provider-controlled service access follows section 6, including supplied clients. The distributor does not audit customer revenue or
+report receipts, and need not arrange purchases. Merely sharing copies is free;
+using the software operationally in a distributor's own business follows the
+ordinary eligibility or company-purchase rules.
+
+A notice shipped with an app can say:
+
+```text
+[Application/version] includes [Software/release identifiers; modifications].
+[Software] is licensed by [Licensor] under the accompanying Bread License pre-1.0.
+Personal use, qualifying business use, and evaluation are free. Independent
+business operation requires the responsible Group's permission for these
+releases; an existing purchase for another app may cover them. Provider-controlled
+service access, including supplied clients, follows section 6. Receiving a copy
+does not transfer the supplier's company license. Purchases: [official channel].
+Corresponding covered source and build instructions: [retainable supplied copy].
+Other components: [licenses/inventory].
+```
+
+Identify a new required upstream release when distributing an update, so buyers
+can assess its coverage before installing. A dependency installed separately
+has the same licensing requirements as a bundled copy. Independent application
+files can remain private; covered files and modifications follow section 7.
+
+Fork modifications add no second upstream permission fee. A company covered
+for release A can use subsequent independently developed modifications of A,
+including successive forks. Incorporating a newer, otherwise-uncovered official
+release needs applicable permission. Fork authors may charge for delivering
+copies, services, or independent additions. They do not become the upstream
+fee recipient by renaming the fork.
+
+### Multiple dependencies
+
+If three independent components each require a $1,000 company purchase, a
+company needing all three pays $3,000 to three sellers. There are three coverage
+records, but no application-revenue reports. That same company need not purchase
+those same covered components again for a second application. Newer releases
+can change coverage needs. Suppliers should identify the component inventory
+and purchasing routes without pretending that a shared Bread name covers all.
+
+## Hosting: identify the responsible deployment
+
+| Situation | Applicable permission |
+| --- | --- |
+| Joe operates an independent hosted product, including free plans or customer-written workflows | Joe's Group; customers need no additional license merely for service access |
+| Microsoft rents a dedicated tenant in Joe's provider-controlled service | Joe's Group; dedicated tenancy alone does not change responsibility |
+| Joe administers Microsoft's deployment in Microsoft's controlled cloud account | Microsoft's Group; no second purchase merely for Joe's administration |
+| Microsoft exports and independently operates a copy | Microsoft's own applicable permission |
+| Anna receives a report produced by the service | No fee merely for receiving the output |
+
+Client-side execution supplied as part of a provider-controlled service is
+included even when application computation runs locally in a browser. A copy
+deployed and controlled by the customer for independent operation requires its
+own applicable permission.
+Distributed client code still needs the corresponding source and notices.
+Private server changes need not be published. A provider's departure does not
+promise continued hosting; the software grant does not supply infrastructure.
+
+## When licensing becomes unavailable
+
+Existing grants and purchased update commitments survive immediately. Newcomers
+can use free evaluation but do not automatically receive operational permission
+during an outage. Section 8 supplies a pre-granted continuation permission after
+180 consecutive days of ordinary purchasing unavailability, documented through
+a qualifying request and a further notice at least 30 days before the end.
+
+The continuation covers the requesting Group for releases already published
+under Bread when its request was sent; source, notice, and downstream company
+conditions remain. Newcomers can qualify through the same process. It survives
+a later return of the seller. It covers neither future releases nor unpaid earlier
+obligations. A refusal to pay, applicant-specific legal obstacle, or inactivity
+in development is not abandonment. Retain the request, notice, and final
+unsuccessful attempt; no public customer registry is required. Missing contacts
+or prices have an evidence-based fallback. Intentional closure of sales can
+trigger this rule too; adopters must understand that choice.
 
 ## Before publishing an adoption
 
-Identify Bread License pre-1.0 and retain its exact text. The text-reuse permission
-and name policy do not supply an adopter's authority over software or make its
-commercial operations ready.
+Retain the exact Bread License pre-1.0 text and complete the adoption notice.
+The [text-reuse and name policy](#text-reuse-and-the-bread-name) grants no rights
+in the adopter's software and supplies no missing sales authority.
 
-Have the actual license and concrete failure cases reviewed: how grants take
-effect, authority to cover future releases, continuity of customer rights,
-contributor rights, mandatory software and consumer rights, taxes, and payment
-arrangements. Neither agent testing nor this guide supplies that approval. Actual party
-identities and operational contacts must be settled by each adopter.
+Review the actual grant authority, purchase formation, source and patent scope,
+individual protection, continuation mechanism, and mandatory obligations with
+appropriate professional advice. Agent scenarios test interpretation, not
+legal enforceability or willingness to pay. Do not claim a required compensation
+structure or recurring payment from companies merely retaining covered releases.
 
-An SPDX record can use a locally unique `LicenseRef-` identifier
-with the actual extracted text, following the [SPDX specification](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/).
-For example, use `LicenseRef-Bread-pre-1.0` for the unchanged text in that record,
-with the adoption facts separately identified. This is a local reference, not
-an SPDX-listed identifier, OSI approval, or legal certification. Follow each
-package ecosystem's metadata conventions; a local SPDX reference does not
-guarantee recognition by a package registry.
+For software records, a locally unique `LicenseRef-Bread-pre-1.0` may identify the
+extracted text and adoption facts under the [SPDX LicenseRef mechanism](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/).
+It is not an SPDX listing, OSI approval, or certification.

@@ -148,9 +148,19 @@ pity or gratitude, and never make free users feel indebted for their access.
 - Separate the period for acquiring new-release coverage from the duration
   of acquired release rights. Nonrenewal does not erase those rights. Access
   to an operated hosted service may end with its purchased service period.
-- Keep coverage specific to the identified software, organization, product,
-  or service. A common license name creates no blanket entitlement across
-  unrelated products or licensors.
+- Make purchased coverage belong to the actual company Group and identified
+  software family, usable across its applications for covered releases. A supplier
+  may arrange the purchase but cannot issue upstream rights merely by invoicing.
+  A common license name creates no blanket entitlement across licensors.
+- Use consolidated Group revenue alone for financial qualification. Commercial
+  purchases cover at least twelve months of new official releases; acquired
+  release rights survive nonrenewal and growth. Funding comes from purchases
+  and update renewals, not a continuing fee on every installed copy.
+- Assign independent hosted-service operation to its provider and customer-owned
+  deployments to the customer. Accept indirect corporate benefit through a
+  provider; do not classify customer workflows or add distribution royalties.
+- Provide an observable licensing-unavailability fallback for existing and new
+  customers without a future signature from an unreachable steward.
 - Preserve recipients' source access to distributed covered software and its
   modifications. Keep independent application code and outputs under their
   authors' control. Private operation does not itself require publishing
@@ -193,6 +203,10 @@ Publish decisions and make settled texts available without requiring a
 continuing relationship with the steward. Stewardship does not require a
 foundation transfer or give sponsors technical control.
 
+Licensing income belongs to the designated licensing operation. Bread provides
+a funding route, not a mandated budget, compensation distribution, or neutral
+governance structure.
+
 Adopters may choose their own contribution and governance arrangements.
 Incoming contributions must supply the authority needed for the declared
 licensing strategy, with those requirements disclosed before acceptance.
@@ -209,7 +223,7 @@ burden through the outcomes above.
 | Decision | Its proper home and constraint |
 | --- | --- |
 | Free eligibility, financial definitions, source obligations, and distribution coverage | Exact license text; recognizable and consistent within its version. |
-| Distribution royalty and its calculation | The standard commercial bargain for that version; no silent changes for existing agreements. |
+| Company purchasing through suppliers and hosting responsibility | Standard rules; suppliers cannot transfer their own coverage or create upstream grants through their invoices. |
 | Direct-purchase amounts, permitted price bands, currencies, and update periods | Identified commercial variables and accepted schedules, within the standard rights baseline. |
 | Software scope, rights holder, seller, and customer | Adoption notices and purchase records; no implied authority or pooled coverage. |
 | Support, sponsorship benefits, and payment operations | Separate offers and processes; no hidden alteration of software rights. |
@@ -238,9 +252,9 @@ For a proposed clause, fee, process, or public claim, ask:
 5. **What could show that it is wrong?** Specify an observable failure and
    distinguish a drafting judgment from a market or legal claim.
 
-Use concrete scenarios: someone remains free forever; a sponsor cancels; a
-competitor sells cheaply; a publisher closes; a company grows; a maintainer
-needs salary; an application contains several licensed dependencies. Each
+Use concrete scenarios: someone remains free forever; a company declines renewal;
+a competitor sells cheaply; a purchasing supplier fails; a company grows; a
+licensing channel disappears; an application contains several licensed dependencies. Each
 participant should be able to determine its position from published terms.
 
 Seek evidence from unfamiliar maintainers applying the model, companies

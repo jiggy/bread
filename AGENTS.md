@@ -33,7 +33,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   English text; permitted adopter facts, commercial choices, and additional
   grants stay separate. Formatting preserves text and order; explanatory
   translations are labeled non-authoritative. Other text changes require a
-  distinct name. Preserve issued text; changes to it require a new version.
+  distinct name. Preserve actually issued grants. The owner is revising the current experimental
+  Bread License pre-1.0 in place; do not create draft version ladders or migrations.
 - Keep doctrinal content in `DOCTRINE.md`; do not duplicate it in operating guides.
 - Distinguish design authority from effective legal grants. Updating this
   repository does not change licenses elsewhere or execute agreements.
@@ -46,11 +47,12 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 
 - Write for an unfamiliar maintainer, user, buyer, and downstream builder.
 - Lead explanatory documents with what readers can do. Prefer ordinary language
-  such as company, updates, and including customer licenses; introduce defined
+  such as company, updates, and arranging a customer purchase; introduce defined
   terms only when needed. Keep audience, scope, and decisive qualifications clear.
 - Use concrete promises over abstract values slogans. Keep Jig prices labeled
   as Jig's, and scope “always free” to personal use and genuine evaluation of
-  software received under Bread. Do not frame ordinary use as buying releases.
+  software received under Bread. Explain company coverage across applications and the distinction
+  between permanent release rights and later official updates.
 - Preserve legal precision in the license. Improve its navigation and paragraph
   structure before paraphrasing operative clauses; check any changed legal
   wording explicitly for altered rights or obligations.
@@ -63,8 +65,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   The site contains authorized coordinated-launch copy;
   its local contract owns presentation and publication prerequisites. Summaries
   must not create or alter software permissions.
-- Use progressive disclosure: at most three primary paths (free use, work,
-  and included product coverage), followed by optional details and authoritative
+- Use progressive disclosure: at most three primary paths (free use, company purchases,
+  and distribution/hosting), followed by optional details and authoritative
   links. Keep decisive qualifications with their path; do not replace a long
   table with an equally dense wall of cards.
 - Keep README and website summaries consistent with the license in the same
@@ -72,6 +74,15 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   Jig prices. Keep legal conditions in the license and examples in the guide.
 - Follow the identity and communication commitments in `DOCTRINE.md`.
 - Preserve exact issued grants; revise draft mechanisms explicitly when needed.
+- Use this independent checkout for Bread edits. Jig retains a verbatim standard
+  in its own license, but its build must not depend on this checkout. Compare
+  both copies explicitly when synchronizing an authorized cross-repository change.
+- The standard uses revenue-only eligibility, minimum twelve-month Update Terms,
+  lasting release rights, and upstream-issued customer purchases. Do not restore
+  royalties, publisher coverage, monthly grants, or sponsorship mechanics.
+- Keep ordinary evaluation separate from operational use. Do not add rollout
+  allowances, post-term security-update exemptions, mandatory compensation
+  governance, or duplicate-purchase automation.
 - Keep temporary review records outside the normative documents.
 - Set delegated agents to `medium` reasoning effort explicitly; never use an
   effort higher than the coordinating agent.
@@ -85,16 +96,12 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 Check local Markdown links, whitespace diffs, and consistency against the
 doctrine. Check that the generic license contains no adopter-specific identity
 or price schedule and that examples use its fixed bargain. These checks do not
-establish legal enforceability. Check fork examples against section 7: distributed
-modifications add no second permission fee, while upstream release and product
-coverage boundaries and independent-component terms remain intact. Exercise
-resale with repairs and direct runtime invocation, customer coverage notices,
-closure of new offers and continuing publisher grants. Check publisher reporting
-with the annual default, optional whole-month periods (including lengths that
-do not divide twelve), partial first/final periods, changes
-from the next calendar year, and late receipts. Keep reports and payments aligned;
-frequency changes and termination must not extend earlier deadlines. Check website claims
-against the current text; Markdown integrity alone does not check their meaning.
+establish legal enforceability. Exercise company growth, a second app using a covered release,
+a newer uncovered release, supplier prepayment, a false supplier invoice,
+expressly accepted credit and its debtor, browser/provider service access versus
+customer deployments, fork source rights, and the documented 180-day continuation
+process. Check that guides, fictional examples and website claims match those
+outcomes. Markdown integrity alone does not establish their meaning.
 
 ## Child DOX Index
 

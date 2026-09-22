@@ -6,16 +6,16 @@ Bread is a reusable source-available commercial license for creators who want to
 keep their software accessible and earn from it. One complete product. Clear
 prices. No activation servers or license surveillance.
 
-**Bread License pre-1.0.** This page explains the [license](LICENSE.md); software
-permissions come from each licensor's adoption of that text.
+This page explains [Bread License pre-1.0](LICENSE.md); each adopter identifies
+the software it covers. The reusable model alone grants no software rights.
 
 ## Summary
 
 | Who you are | What Bread offers |
 | --- | --- |
 | **Individuals & evaluators** | **Always free.** Software received under Bread stays free for personal projects and genuine evaluation. No sign-up, countdown, or commitment to buy. |
-| **Teams & companies** | **One license. Your whole company.** Free for small companies with less than **US$1m a year in revenue and funding combined**, across their company group. Ordinary loans do not count; the [funding rules](LICENSE.md#3-organization-eligibility) explain the other exclusions. Larger companies need paid or existing coverage. Each project publishes its price. |
-| **Redistributors & hosts** | **Bundle the software. Cover your customers.** An optional **1% of your product's covered receipts** can include customers' licenses for that paid product or service. Free-plan users need their own permission. |
+| **Teams & companies** | **One license. Your whole company.** Business use is free below **US$1m in annual consolidated revenue** across the company group. At or above that threshold, use paid or existing coverage. A purchase provides permanent rights to covered releases and at least twelve months of new-release coverage. Each project publishes its price. |
+| **Redistributors & hosts** | **Share and sell without royalties.** Recipients need their own applicable permission; your company license does not cover theirs. An independent provider's own hosted service uses the provider's permission. Customers' own deployments use their own permission. |
 
 Share the Bread-licensed code and your changes when distributing it. Your
 independent application code keeps its own terms. The details below explain
@@ -26,54 +26,63 @@ the boundaries and what happens when you stop paying.
 <details>
 <summary><strong>Personal projects, small companies, and evaluation</strong></summary>
 
-Personal use means your own projects outside an organization. Work for an
-employer or commercial client uses that organization's permission. Genuine
-evaluation is free at any organization, without a deadline. Once you adopt the
-software for routine work, use the appropriate business license—even if it runs
-only on a developer's laptop.
+Personal use covers your own non-business activities. Independent paid work
+follows your business's eligibility; operating a client's deployment uses the
+client's permission. Genuine evaluation is free at any organization, without a
+deadline. Routine work using adopted software, including product development,
+follows the business rules.
 
-For companies, count revenue and qualifying funding across the controlled
-company group. For example, $600,000 in revenue plus $200,000 in qualifying
-funding is below the threshold. Business use stays free while the company
-qualifies. The [financial rules](LICENSE.md#3-organization-eligibility) explain
-which funding counts, the assessment period, and the transition after growth.
+Count consolidated revenue across the controlling parent and its controlled
+entities for the last completed financial year. Financing, investment proceeds,
+valuation, and headcount are excluded. Without a completed year, use revenue
+since formation without annualizing it. Business use stays free while eligible;
+it does not create a permanent business grant. The [business rules](LICENSE.md#3-business-eligibility)
+explain annual assessment and the 90-day transition after losing eligibility in
+good faith.
 
 </details>
 
 <details>
 <summary><strong>Cancel renewal. Keep using.</strong></summary>
 
-An ordinary company purchase covers existing official software versions and
-those published during the period you pay for, subject to exclusions identified
-before purchase. The license calls this period the **Update Term**. Canceling
-renewal or sponsorship leaves the period you already paid for intact. Updates
-published after that period ends are not covered by that purchase; your existing
-software permissions remain.
+A company purchase gives the named company group permanent rights to existing
+official releases and those first published during an **Update Term** of at
+least twelve calendar months, subject to exclusions disclosed before purchase.
+There are no seat, machine, application, or execution counts. Nonrenewal stops
+coverage of later official releases; covered releases and their permitted
+modifications remain usable. Growth does not reprice those acquired rights.
+No particular update or maintenance schedule is promised.
 
-Hosted access lasts for the service period you pay for. Taking an exported
-copy away to run yourself needs explicitly included permission or your own
-license. See [company purchases](LICENSE.md#4-direct-organization-purchases-and-sponsorship)
-and [product coverage](LICENSE.md#5-distributing-applications-and-supplying-hosted-software).
+Hosted access follows the service period. Exporting software to operate it
+yourself requires your own applicable permission. See [company purchases](LICENSE.md#4-company-purchases)
+and [hosted services](LICENSE.md#6-hosted-services-and-managed-deployments).
 
 </details>
 
 <details>
 <summary><strong>Redistributing or hosting Bread-licensed software</strong></summary>
 
-Enroll under the standard 1% agreement to include customers' licenses in your
-paid product, or clearly tell customers they need their own permission. Free
-copies and free customer hosting plans use that second route. Included licenses
-cover your product, not customers' unrelated deployments or their whole company.
-Competing products and hosts can use the same published terms. Report and pay
-once a year by default, or choose a shorter period in whole calendar months
-at enrollment. Periods align with the calendar year, with reporting and payment
-due within 30 days after each period ends.
+You may share or sell Bread-licensed software without a royalty, publisher
+coverage tier, sales reporting, or product approval. Include the required source
+and notices, and explain that recipients need their own applicable permission.
+An existing company purchase may already cover the same releases in another
+application.
 
-Customers who only receive results from a hosted application need no separate
-license for its Bread-licensed backend; the operator does. Hosting customers'
-own programs or workflows requires customer coverage. The [distribution rules](LICENSE.md#5-distributing-applications-and-supplying-hosted-software)
-and [guide](ADOPTION.md#dependencies-and-downstream-notices) explain hosting,
-resale, and the separate obligations of multiple licensed dependencies.
+With the customer's authorization, a supplier may arrange an ordinary purchase
+naming the actual customer group. The upstream authorized seller accepts the
+order and issues confirmation directly to that customer. Coverage begins with
+upstream payment or an expressly accepted credit order identifying who owes
+payment. Payment to the supplier alone does not create coverage, and the
+supplier's own license cannot replace it.
+
+An independent provider operating its own service uses its own permission.
+Customers need no separate permission merely to access it, including free plans,
+dedicated tenants, and services running their own programs or workflows. A
+browser client supplied for that provider-controlled service is included, even
+when it computes locally. A customer-controlled deployment uses the customer's permission, including when a
+supplier administers it. See the [distribution rules](LICENSE.md#5-distribution-and-purchases-through-suppliers)
+and [hosting rules](LICENSE.md#6-hosted-services-and-managed-deployments).
+Separately licensed components retain their own obligations.
 
 </details>
 
