@@ -97,7 +97,8 @@ Authorized sellers: [identity and actual authority, or Licensor itself]
 Licensing and notices: [working channels]
 Bread text: Bread License pre-1.0 [retain exact local text]
 Applies from: [identified source/release]
-Official releases: [identifiers and publication records]
+Official releases: [release criteria, identifiers and first-publication records;
+  specify whether development snapshots and previews count]
 Separate material: [scope and location of other licenses]
 Pricing: [dated schedule, currency, bands, terms of at least twelve months]
 Purchase channel: [working route]
@@ -111,7 +112,7 @@ adoption identifies the material and source/release from which it applies.
 
 ```text
 Licensor / authorized seller: [identities]
-Customer Group / controlling parent: [legal identity]
+Customer Group / ultimate controlling parent: [legal identity]
 Software family: [identified scope]
 Annual Revenue band: [customer declaration]
 Accepted terms: [retained Bread text, adoption notice, dated price schedule]
@@ -119,7 +120,7 @@ Price / taxes / payment: [amounts and receipt, or credit below]
 Credit, if accepted: [authorized seller's express acceptance, debtor, due date]
 Update Term: [inclusive start, exclusive end; UTC; at least twelve months]
 Covered Releases: existing official releases plus releases first published
-  during this term, subject to [identified existing exclusions, or none]
+  during this term, excluding [identified material outside Licensor authority, or none]
 Official release records: [retained identifiers and publication times]
 Renewal choice and cancellation route: [details]
 Purchasing supplier, if any: [identity; no authority to issue this grant]
@@ -179,7 +180,8 @@ Other components: [licenses/inventory].
 Identify a new required upstream release when distributing an update, so buyers
 can assess its coverage before installing. A dependency installed separately
 has the same licensing requirements as a bundled copy. Independent application
-files can remain private; covered files and modifications follow section 7.
+files can remain private; covered files and changes are supplied and licensed
+under Bread as section 7 requires.
 
 Fork modifications add no second upstream permission fee. A company covered
 for release A can use subsequent independently developed modifications of A,
@@ -245,8 +247,9 @@ in the adopter's software and supplies no missing sales authority.
 
 Review the actual grant authority, purchase formation, source and patent scope,
 individual protection, continuation mechanism, and mandatory obligations with
-appropriate professional advice. Agent scenarios test interpretation, not
-legal enforceability or willingness to pay. Do not claim a required compensation
+appropriate professional advice. Review direct-loss exposure: Bread's liability
+exclusion does not generally exclude or cap all damages. Agent scenarios test
+interpretation, not legal enforceability or willingness to pay. Do not claim a required compensation
 structure or recurring payment from companies merely retaining covered releases.
 
 For software records, a locally unique `LicenseRef-Bread-pre-1.0` may identify the

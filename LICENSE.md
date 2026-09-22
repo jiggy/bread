@@ -39,7 +39,7 @@ Personal rights in received Software remain available for the duration of copyri
 
 ### Group and revenue
 
-A **Group** comprises a controlling parent and the entities it controls through more than half the voting rights or equivalent enforceable management control. An independent business, including a sole trader, is its own Group. Passive minority investment does not combine groups. Common governmental ownership alone does not combine independently managed public bodies.
+A **Group** comprises the ultimate controlling parent and all entities it directly or indirectly controls through more than half the voting rights or equivalent enforceable management control. An independent business, including a sole trader, is its own Group. Passive minority investment does not combine groups. Common governmental ownership alone does not combine independently managed public bodies.
 
 **Annual Revenue** is the Group's consolidated revenue for its last completed financial year under its consistently applied accounting framework, eliminating intragroup revenue. Do not add financing, investment proceeds, valuation, or headcount. A Group with no completed financial year uses revenue recognized since formation, without annualization. The same revenue test applies to nonprofit and public bodies.
 
@@ -57,9 +57,9 @@ Growth or a later price change does not reprice acquired paid-up release rights.
 
 ### Published purchasing and records
 
-While offering new purchases, the Licensor must provide published prices and a working purchasing channel. Ordinary coverage may not depend on individual negotiation. The authorized seller must have authority to honor the grants and future-release commitments it accepts.
+While offering new purchases, the Licensor must provide published prices and a working purchasing channel. Ordinary coverage may not depend on individual negotiation. The authorized seller must have authority to supply the standard coverage and future-release commitments for the identified Software family.
 
-An accepted order identifies the Licensor and seller, Software family, customer Group and controlling parent, revenue band, exact license and pricing terms, total price and taxes, and Update Term start and end. The customer or its authorized purchaser accepts those terms. Permission begins when the authorized seller receives the agreed payment for that order, or expressly accepts an invoice order with a stated payment due date. A quotation or unaccepted invoice is not a grant. A credit order identifies the debtor: supplier-only payment obligations do not condition the customer's acquired permission; the customer's own payment obligations remain subject to section 8.
+An accepted order identifies the Licensor and seller, Software family, customer Group and ultimate controlling parent, revenue band, exact license and pricing terms, total price and taxes, and Update Term start and end. The customer or its authorized purchaser accepts those terms. Permission begins when the authorized seller receives the agreed payment for that order, or expressly accepts an invoice order with a stated payment due date. A quotation or unaccepted invoice is not a grant. A credit order identifies the debtor: supplier-only payment obligations do not condition the customer's acquired permission; the customer's own payment obligations remain subject to section 8.
 
 The seller must send the customer a retainable order and coverage confirmation with the accepted terms and identified official release records. Email or downloadable documents suffice. Failure to send a record does not invalidate permission otherwise acquired under this section. Records are evidence, not activation tokens; permission does not depend on continued access to an account or website.
 
@@ -67,7 +67,7 @@ The seller must send the customer a retainable order and coverage confirmation w
 
 An **Update Term** is a purchased period of at least twelve calendar months. Shorter standalone purchases are not offered under this standard. Longer periods may be priced and identified in advance. The whole agreed purchase price is due upfront unless the authorized seller expressly accepts credit; a payment installment does not itself purchase a shorter Update Term.
 
-**Covered Releases** are all official Software releases available at the start of the Update Term and those first published during it. Any existing material the seller lacks authority to include must be specifically excluded before purchase. Later relicensing, an ordinary rename, or a new major version does not remove otherwise-covered releases from an accepted term. No release or maintenance schedule is promised.
+**Covered Releases** are all official Software releases first published before or during the Update Term. Existing material outside the Licensor's grant authority must be specifically identified and excluded before purchase. Later relicensing, an ordinary rename, or a new major version does not remove otherwise-covered releases from an accepted term. No release or maintenance schedule is promised.
 
 The term starts inclusively and ends exclusively in UTC, on the agreed calendar anniversary; use the month's last day if that anniversary day does not exist. Coverage follows the official release identifier and first-publication time, not download or installation time. Official release records must preserve those facts; replacing bytes under an existing identifier does not give new material an earlier publication date.
 
@@ -123,7 +123,7 @@ Private modifications do not require publication merely because they run interna
 
 ### Forks and contributions
 
-If you distribute Software modifications, you grant recipients permission to use them under this license, including your necessarily infringed patent claims, without a separate permission fee or royalty to you. Their applicable upstream entitlement covers those modifications, including later modifications and successive forks, within its existing scope and duration; uncovered upstream releases remain excluded. Forking does not replace the upstream Licensor or redirect its fees. You may charge for supplying copies or optional services; independent material keeps its own terms.
+If you distribute Software modifications, you grant recipients permission to use all your additions and changes within Software-covered source files under this license, including your necessarily infringed patent claims, without a separate permission fee or royalty to you. Their applicable upstream entitlement covers those modifications, including later modifications and successive forks, within its existing scope and duration; uncovered upstream releases remain excluded. Forking does not replace the upstream Licensor or redirect its fees. You may charge for supplying copies or optional services; independent material keeps its own terms.
 
 This grant requires neither future delivery nor upstream submission and does not authorize the Licensor to relicense your modifications. Upstream contributions follow the project's separately disclosed contribution terms; Bread requires no particular contributor agreement, compensation arrangement, or governance model.
 

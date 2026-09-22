@@ -32,7 +32,7 @@ client's permission. Genuine evaluation is free at any organization, without a
 deadline. Routine work using adopted software, including product development,
 follows the business rules.
 
-Count consolidated revenue across the controlling parent and its controlled
+Count consolidated revenue across the ultimate controlling parent and its controlled
 entities for the last completed financial year. Financing, investment proceeds,
 valuation, and headcount are excluded. Without a completed year, use revenue
 since formation without annualizing it. Business use stays free while eligible;
@@ -47,7 +47,8 @@ good faith.
 
 A company purchase gives the named company group permanent rights to existing
 official releases and those first published during an **Update Term** of at
-least twelve calendar months, subject to exclusions disclosed before purchase.
+least twelve calendar months, excluding material outside the Licensor's authority
+identified before purchase.
 There are no seat, machine, application, or execution counts. Nonrenewal stops
 coverage of later official releases; covered releases and their permitted
 modifications remain usable. Growth does not reprice those acquired rights.

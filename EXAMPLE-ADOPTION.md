@@ -15,7 +15,7 @@ The identities, release records, contacts, prices and orders are teaching exampl
 | Licensing and notices | licensing@lantern.example — illustrative only, not an operating channel. |
 | Instrument | Unchanged [Bread License pre-1.0](LICENSE.md), retained with the adopting software. |
 | Applies from | Ledger Engine 1.0, hypothetically first published on 2030-01-01 at 00:00 UTC. |
-| Official releases | Retained identifiers and first-publication times, with matching source; later changes cannot acquire an earlier publication date. |
+| Official releases | Versioned entries in the release inventory, including previews, with first-publication times and matching source; unlisted development commits are not official releases. Later changes cannot acquire an earlier publication date. |
 | Separate material | Third-party dependencies and independent application source retain their terms, listed in the release inventory. |
 | Pricing | Illustrative E-1 schedule below, dated 2030-01-01, USD. |
 | Purchase channel | orders@lantern.example — illustrative only; a real channel accepts ordinary orders and supplies customer records. |

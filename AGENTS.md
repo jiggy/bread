@@ -78,7 +78,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   in its own license, but its build must not depend on this checkout. Compare
   both copies explicitly when synchronizing an authorized cross-repository change.
 - The standard uses revenue-only eligibility, minimum twelve-month Update Terms,
-  lasting release rights, and upstream-issued customer purchases. Do not restore
+  lasting release rights, file-level source and modification grants, and
+  upstream-issued customer purchases. Do not restore
   royalties, publisher coverage, monthly grants, or sponsorship mechanics.
 - Keep ordinary evaluation separate from operational use. Do not add rollout
   allowances, post-term security-update exemptions, mandatory compensation
@@ -96,7 +97,8 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 Check local Markdown links, whitespace diffs, and consistency against the
 doctrine. Check that the generic license contains no adopter-specific identity
 or price schedule and that examples use its fixed bargain. These checks do not
-establish legal enforceability. Exercise company growth, a second app using a covered release,
+establish legal enforceability. Exercise nested corporate control, removed release
+downloads, seller authority limits, company growth, a second app using a covered release,
 a newer uncovered release, supplier prepayment, a false supplier invoice,
 expressly accepted credit and its debtor, browser/provider service access versus
 customer deployments, fork source rights, and the documented 180-day continuation
