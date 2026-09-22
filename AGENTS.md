@@ -100,8 +100,10 @@ establish legal enforceability. Exercise company growth, a second app using a co
 a newer uncovered release, supplier prepayment, a false supplier invoice,
 expressly accepted credit and its debtor, browser/provider service access versus
 customer deployments, fork source rights, and the documented 180-day continuation
-process. Check that guides, fictional examples and website claims match those
-outcomes. Markdown integrity alone does not establish their meaning.
+process, including a late further notice and a restored channel that gives the
+requesting Group a reasonable opportunity to purchase. Check that guides,
+fictional examples and website claims match those outcomes. Markdown integrity
+alone does not establish their meaning.
 
 ## Child DOX Index
 

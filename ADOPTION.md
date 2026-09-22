@@ -220,8 +220,12 @@ promise continued hosting; the software grant does not supply infrastructure.
 Existing grants and purchased update commitments survive immediately. Newcomers
 can use free evaluation but do not automatically receive operational permission
 during an outage. Section 8 supplies a pre-granted continuation permission after
-180 consecutive days of ordinary purchasing unavailability, documented through
-a qualifying request and a further notice at least 30 days before the end.
+at least 180 consecutive days of ordinary purchasing unavailability and at least
+30 days after a further notice. A reminder sent on day 160 therefore permits
+reliance no earlier than day 190, if purchasing remains unavailable. It does not
+restart the request or move the release cutoff. A restored channel interrupts
+the period only when the Group is told or knows about it and has a reasonable
+opportunity to purchase.
 
 The continuation covers the requesting Group for releases already published
 under Bread when its request was sent; source, notice, and downstream company

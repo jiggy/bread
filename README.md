@@ -117,9 +117,9 @@ is separate. Free users owe no contribution, promotion, or eventual purchase.
 The [fictional adoption example](EXAMPLE-ADOPTION.md) includes an illustrative
 price schedule and grants no rights.
 
-Jig is the first intended adopter. Jig owns its
+Jig maintains its own
 [pricing](https://github.com/jiggy/jig/blob/main/PRICING.md),
-[actual licensing](https://github.com/jiggy/jig/blob/main/LICENSE.md), and
+[adoption notice and retained license](https://github.com/jiggy/jig/blob/main/LICENSE.md), and
 contribution arrangements in its separate repository. They are not requirements
 for other Bread adopters.
 
