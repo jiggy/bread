@@ -1,6 +1,6 @@
 # Adopting Bread
 
-Bread License pre-1.0 gives free personal use, qualifying business use, and evaluation,
+Bread License 1.0 gives free personal use, qualifying business use, and evaluation,
 with company-wide purchases for larger businesses. A purchase provides lasting
 rights to covered releases and at least twelve months of new official releases.
 The [license](LICENSE.md) fixes the bargain; this guide explains how to adopt it.
@@ -105,7 +105,7 @@ Software: [family name and precise covered material]
 Licensor: [legal identity, notice address, licensing capacity]
 Authorized sellers: [identity and actual authority, or Licensor itself]
 Licensing and notices: [working channels]
-Bread text: Bread License pre-1.0 [retain exact local text]
+Bread text: Bread License 1.0 [retain exact local text]
 Applies from: [identified source/release]
 Official releases: [release criteria, identifiers and first-publication records;
   specify whether development snapshots and previews count]
@@ -177,7 +177,7 @@ A notice shipped with an app can say:
 
 ```text
 [Application/version] includes [Software/release identifiers; modifications].
-[Software] is licensed by [Licensor] under the accompanying Bread License pre-1.0.
+[Software] is licensed by [Licensor] under the accompanying Bread License 1.0.
 Personal use, qualifying business use, and evaluation are free. Independent
 business operation requires the responsible Group's permission for these
 releases; an existing purchase for another app may cover them. Provider-controlled
@@ -258,7 +258,7 @@ trigger this rule too; adopters must understand that choice.
 
 ## Before publishing an adoption
 
-Retain the exact Bread License pre-1.0 text and complete the adoption notice.
+Retain the exact Bread License 1.0 text and complete the adoption notice.
 The [text-reuse and name policy](#text-reuse-and-the-bread-name) grants no rights
 in the adopter's software and supplies no missing sales authority.
 
@@ -273,6 +273,6 @@ have no stated direct-damages cap here. Agent scenarios test interpretation,
 not legal enforceability or willingness to pay. Do not claim a required compensation
 structure or recurring payment from companies merely retaining covered releases.
 
-For software records, a locally unique `LicenseRef-Bread-pre-1.0` may identify the
+For software records, a locally unique `LicenseRef-Bread-1.0` may identify the
 extracted text and adoption facts under the [SPDX LicenseRef mechanism](https://spdx.github.io/spdx-spec/v2.3/other-licensing-information-detected/).
 It is not an SPDX listing, OSI approval, or certification.

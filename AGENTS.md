@@ -12,7 +12,7 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
 - `README.md` owns the plain-language first impression and Summary, then routes
   readers to the doctrine and current working materials. `site/` presents the
   same bargain as a static website; its local instructions own presentation.
-- `LICENSE.md` owns Bread License pre-1.0's fixed permissions and commercial-rights
+- `LICENSE.md` owns Bread License 1.0's fixed permissions and commercial-rights
   baseline. `ADOPTION.md` owns the effective text-reuse permission and name
   policy, permitted fields, adopter duties and the notice template. Text reuse
   does not grant software rights; the guide adds no software conditions.
@@ -33,8 +33,9 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   English text; permitted adopter facts, commercial choices, and additional
   grants stay separate. Formatting preserves text and order; explanatory
   translations are labeled non-authoritative. Other text changes require a
-  distinct name. Preserve actually issued grants. The owner is revising the current experimental
-  Bread License pre-1.0 in place; do not create draft version ladders or migrations.
+  distinct name. Preserve actually issued grants. Bread License 1.0 is finalized;
+  keep its exact license text fixed. Changes to the standard text require a new
+  license version. Guides and presentation may improve without changing its terms.
 - Keep doctrinal content in `DOCTRINE.md`; do not duplicate it in operating guides.
 - Distinguish design authority from effective legal grants. Updating this
   repository does not change licenses elsewhere or execute agreements.

@@ -1,4 +1,4 @@
-# Bread License pre-1.0
+# Bread License 1.0
 
 This license applies only when a rights holder expressly adopts it for identified material. Publishing this reusable text or an example does not, by itself, license any software.
 

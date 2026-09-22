@@ -13,7 +13,7 @@ The identities, release records, contacts, prices and orders are teaching exampl
 | Licensor | Lantern Tools, a fictional rights holder; a real adoption supplies verified identity, notice address, and grant authority. |
 | Authorized seller | The Licensor itself. |
 | Licensing and notices | licensing@lantern.example — illustrative only, not an operating channel. |
-| Instrument | Unchanged [Bread License pre-1.0](LICENSE.md), retained with the adopting software. |
+| Instrument | Unchanged [Bread License 1.0](LICENSE.md), retained with the adopting software. |
 | Applies from | Ledger Engine 1.0, hypothetically first published on 2030-01-01 at 00:00 UTC. |
 | Official releases | Versioned entries in the release inventory, including previews, with first-publication times and matching source; unlisted development commits are not official releases. Later changes cannot acquire an earlier publication date. |
 | Separate material | Third-party dependencies and independent application source retain their terms, listed in the release inventory. |
@@ -49,7 +49,7 @@ and payment; writing this example does not create either.
 | Licensor and authorized seller | Lantern Tools itself |
 | Customer Group and controlling parent | Northstar Example Company, fictional ultimate parent, and entities covered under Bread's Group rules |
 | Customer revenue declaration | US$10 million–under US$100 million, based on the last completed financial year |
-| Software and terms | Ledger Engine; retained Bread License pre-1.0, the notice above, and schedule E-1 |
+| Software and terms | Ledger Engine; retained Bread License 1.0, the notice above, and schedule E-1 |
 | Price and acceptance | US$120, tax assumed US$0 solely for illustration; total US$120; accepted by Northstar's authorized purchaser |
 | Payment | US$120 received by Lantern on 2030-01-01 at 00:00 UTC; no credit debt |
 | Update Term | 2030-01-01 at 00:00 UTC inclusive to 2031-01-01 at 00:00 UTC exclusive |

@@ -6,7 +6,7 @@ Bread is a reusable source-available commercial license for creators who want to
 keep their software accessible and earn from it. One complete product. Clear
 prices. No activation servers or license surveillance.
 
-This page explains [Bread License pre-1.0](LICENSE.md); each adopter identifies
+This page explains [Bread License 1.0](LICENSE.md); each adopter identifies
 the software it covers. The reusable model alone grants no software rights.
 
 ## Summary
