@@ -67,6 +67,9 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   Redistribution and source-sharing questions must name the Bread-licensed
   software being used, bundled, or hosted; never imply Bread governs unrelated
   products or independent app code.
+- Describe flipped form as a user-led drafting approach, not certification or
+  proof of legal review. Invite clarity feedback without promising every reader
+  will understand every provision.
 - Keep this a selling page, not a second contract. State that separately licensed
   components have separate obligations; leave detailed transaction and continuation mechanics to the adoption guide
   and license. Each company purchase covers at least twelve months of new
