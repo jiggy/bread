@@ -2,7 +2,7 @@
 
 :root {
   color-scheme: dark;
-  
+
   /* Primary dark background palette */
   --bg: #151310;
   --bg-surface: #1E1B16;
@@ -11,13 +11,13 @@
   --muted: #AFA698;
   --border: #3D352B;
   --border-subtle: #2C261F;
-  
+
   /* Amber / Gold accents */
   --accent: #E5A84B;
   --accent-light: #FAD99B;
   --accent-hover: #F0B763;
   --accent-glow: rgba(229, 168, 75, 0.15);
-  
+
   /* Warm cream section palette */
   --cream: #FAF7F2;
   --cream-card: #FFFFFF;
@@ -458,7 +458,8 @@ a:hover {
 }
 
 .scale-example {
-  display: flex;
+  /* display: flex; */
+  display: none;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
