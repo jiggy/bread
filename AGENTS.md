@@ -102,7 +102,8 @@ downloads, seller authority limits, company growth, a second app using a covered
 a newer uncovered release, supplier prepayment, a false supplier invoice,
 expressly accepted credit and its debtor, browser/provider service access versus
 customer deployments, fork source rights, and the documented 180-day continuation
-process, including a late further notice and a restored channel that gives the
+process, including preservation of existing lawful use after timely requests by
+Groups losing free eligibility, restoration and disqualification, a late further notice and a restored channel that gives the
 requesting Group a reasonable opportunity to purchase. Check that guides,
 fictional examples and website claims match those outcomes. Markdown integrity
 alone does not establish their meaning.

@@ -77,7 +77,8 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   copy, followed by practical details, the visible license comparison table,
   and “About Bread.” About opens with the naming story and two disclosures:
   open-source status and adoption. Do not duplicate the comparison in the FAQ.
-- Compare common licenses as rows, using scoped headers and a keyboard-accessible
+- Order comparisons from the closest commercial models to familiar open-source
+  licenses, ending with Apache and MIT. Compare licenses as rows, using scoped headers and a keyboard-accessible
   horizontal scroll region on narrow screens. Keep exact versions and source
   links visible; no winner scores or unqualified green/red checkmarks.
 - Route to the license and practical guide, then doctrine and adopter examples.

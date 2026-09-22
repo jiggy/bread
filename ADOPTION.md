@@ -229,6 +229,13 @@ restart the request or move the release cutoff. A restored channel interrupts
 the period only when the Group is told or knows about it and has a reasonable
 opportunity to purchase.
 
+A business losing free eligibility can preserve its existing lawful operational
+use by making the qualifying request within its 90-day transition. This temporary
+permission covers only releases and operational uses from before eligibility was
+lost. It ends 30 days after purchasing is restored as described above, or immediately
+if the request ceases to qualify, without shortening other permissions. No fee is
+owed for this temporary use. It is not a rollout or new-release allowance.
+
 The continuation covers the requesting Group for releases already published
 under Bread when its request was sent; source, notice, and downstream company
 conditions remain. Newcomers can qualify through the same process. It survives
