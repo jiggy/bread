@@ -53,9 +53,12 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   as Jig's, and scope “always free” to personal use and genuine evaluation of
   software received under Bread. Explain company coverage across applications and the distinction
   between permanent release rights and later official updates.
-- Preserve legal precision in the license. Improve its navigation and paragraph
-  structure before paraphrasing operative clauses; check any changed legal
-  wording explicitly for altered rights or obligations.
+- Write the authoritative license in everyday language. Name who acts, state the
+  ordinary result before exceptions, and separate distinct obligations. Keep useful
+  definitions consistent; explain necessary legal terms. Treat reader confusion
+  as a drafting problem. Preserve scenario outcomes when rewriting; changes in
+  rights or obligations require an explicit policy decision, not a plain-language
+  justification. Do not maintain a second, supposedly simpler operative text.
 - Keep rules minimal: reuse existing definitions and grants, put explanatory
   examples in the adoption guide, and add clauses only for distinct obligations.
 - Give public entrypoints a concise summary of license type, free eligibility,
