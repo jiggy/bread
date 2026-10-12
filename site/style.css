@@ -754,10 +754,11 @@ summary:hover {
   border-color: var(--accent);
 }
 
-.featured-icon-placeholder {
-  font-size: 1.35rem;
-  line-height: 1;
-  filter: drop-shadow(0 2px 4px rgba(229, 168, 75, 0.4));
+.featured-app-icon {
+  width: 1.75rem;
+  height: 1.75rem;
+  display: block;
+  object-fit: contain;
 }
 
 .featured-app-info h3 {
