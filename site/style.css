@@ -699,14 +699,12 @@ summary:hover {
   margin-bottom: 0.5rem;
 }
 
-.featured-carousel {
+.featured-grid {
   margin-top: 2rem;
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
   gap: 1.5rem;
-  overflow-x: auto;
   padding: 0.5rem 0.25rem 1rem;
-  scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
 }
 
 .featured-item {
@@ -720,10 +718,8 @@ summary:hover {
   background-clip: padding-box;
   box-shadow: inset 0 0 0 1px var(--border), 0 4px 16px rgba(0, 0, 0, 0.15);
   transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
-  max-width: 22rem;
+  min-width: 0;
   width: 100%;
-  flex-shrink: 0;
-  scroll-snap-align: start;
 }
 
 .featured-item:hover {
@@ -766,6 +762,16 @@ summary:hover {
   object-fit: contain;
 }
 
+.featured-icon-wrap-bonsai {
+  background: transparent;
+  border: 0;
+}
+
+.featured-icon-wrap-bonsai .featured-app-icon {
+  width: 100%;
+  height: 100%;
+}
+
 .featured-app-info h3 {
   color: var(--accent);
   font-size: 1.35rem;
@@ -781,6 +787,12 @@ summary:hover {
   margin-bottom: 0;
 }
 
+.featured-details {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
 .featured-details p {
   color: var(--muted);
   font-size: 0.925rem;
@@ -793,6 +805,7 @@ summary:hover {
   flex-wrap: wrap;
   align-items: center;
   gap: 0.75rem 1.25rem;
+  margin-top: auto;
 }
 
 .featured-details nav a:first-child {
