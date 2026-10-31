@@ -10,17 +10,21 @@ details. Help unfamiliar users understand the benefits before assessing terms.
 
 - `index.html` owns the public entrypoint and links to authoritative materials.
 - `style.css` owns the warm Bread palette, responsive layout, and focus styles.
+- `bonsai.svg` preserves Bonsai's official mark verbatim from
+  `https://github.com/jiggy/bonsai/blob/main/website/public/assets/favicon.svg`.
 - The parent owns the licensing model and repository workflow. `../DOCTRINE.md`
   governs design; the license and adoption guide own exact terms and examples.
   Website summaries cannot create permissions or override those sources.
 
 ## Local Contracts
 
-- This site is copy prepared for the coordinated Bread/Jig launch, including
+- This site includes coordinated-launch copy, including
   present-tense adoption and featured-software language. The license and each
   adopter's notice own version and authority; website copy does not establish
   adoption. Publish only alongside actual adoption and synchronized
-  legal/pricing destinations. Preparing or committing copy is not publication.
+  legal/pricing destinations. The Pages workflow publishes site changes from
+  `main`; merge a new adopter listing only after its adoption notice and pricing
+  are live. Preparing copy on a branch is not publication.
 - Use at most three audience cards: Individuals & evaluators, Teams & companies,
   and Redistributors & hosts. Label the audience prominently; these are roles, not
   steps or mutually exclusive plans. Keep both free and paid business use in
@@ -80,6 +84,9 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   copy, followed by practical details, the visible license comparison table,
   and “About Bread.” About opens with the naming story and two disclosures:
   open-source status and adoption. Do not duplicate the comparison in the FAQ.
+- Keep Jig and Bonsai adjacent on wide screens and stack their cards on narrow
+  screens. Use their existing marks and keep each project's pricing and coverage
+  separate.
 - Order comparisons from the closest commercial models to familiar open-source
   licenses, ending with Apache and MIT. Compare licenses as rows, using scoped headers and a keyboard-accessible
   horizontal scroll region on narrow screens. Keep exact versions and source
@@ -90,6 +97,10 @@ details. Help unfamiliar users understand the benefits before assessing terms.
   and prices at `https://github.com/jiggy/jig/blob/main/LICENSE.md` and
   `https://github.com/jiggy/jig/blob/main/PRICING.md`; use those external links,
   never paths into a neighboring checkout.
+- Bonsai's public homepage is `https://jiggy.github.io/bonsai/`. Its adoption and
+  pricing destinations are `https://github.com/jiggy/bonsai/blob/main/LICENSE.md`
+  and `https://github.com/jiggy/bonsai/blob/main/PRICING.md`; apply the same
+  external-ownership boundary as Jig.
 - Follow the doctrine's communication commitments; do not promise ownership,
   guaranteed income, or freedom from all lock-in. Keep license comparisons
   short and factual, link primary sources, and verify their current terms.

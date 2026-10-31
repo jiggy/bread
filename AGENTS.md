@@ -22,6 +22,10 @@ Develop Bread, the reusable licensing model governed by Reciprocity in
   separate repository. Link to `https://github.com/jiggy/jig/blob/main/LICENSE.md`
   and `https://github.com/jiggy/jig/blob/main/PRICING.md`; do not keep Jig's
   operative documents here or depend on its local checkout.
+- Bonsai owns its separate adoption and commercial terms at
+  `https://github.com/jiggy/bonsai/blob/main/LICENSE.md` and
+  `https://github.com/jiggy/bonsai/blob/main/PRICING.md`. Link to those documents;
+  do not copy them here or imply that a Jig purchase covers Bonsai.
 
 ## Local Contracts
 
